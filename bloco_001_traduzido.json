@@ -3,15 +3,16 @@
   "capitulo": 1,
   "versiculo_inicial": 1,
   "versiculo_final": 7,
-  "versiculos": [
+  "blocos": [
     {
+      "referencia": "Lucas 1:1",
       "versiculo": 1,
-      "trecho": "Lucas, o Evangelho Sacerdotal",
-      "comentarios_versiculo": [
+      "tema": "Lucas, o Evangelho Sacerdotal",
+      "comentarios": [
         {
           "titulo": "Lucas, o Evangelho Sacerdotal",
           "autor": "Ambrósio",
-          "texto": "São Lucas manteve uma certa ordem histórica e nos revela mais milagros do Senhor, mas de maneira que a história de seu Evangelho abraçou a virtude de toda sabedoria. Pois que pode ser mais excelente que a verdade se revele em relação com a sabedoria natural do que o Espírito Santo também ter dado lugar à encarnação divina? Ele ensinou que as potências dos céus serão abaladas, que só o Senhor é o Filho unigênito de Deus, em cuja paixão trevas caíram durante o dia, de modo que a terra escureceu como a noite e o sol desapareceu. Em comparação com os outros Evangelhos, vemos maior zelo dedicado à descrição dos fatos que à expressão de regras de comportamento. E o Evangelista, escrevendo no modo histórico, faz seu princípio em forma narrativa: \"Havia\", diz, \"nos dias de Herodes, rei da Judeia, um sacerdote chamado Zacarias.\" E ele continua a história com uma descrição completa e ordenada. Portanto, os que pensam que os quatro seres viventes que se descrevem no Apocalipse devem ser entendidos como os quatro livros do Evangelho desejam que este livro seja representado pelo bezerro; pois o bezerro é a vítima sacerdotal. Este Evangelho está adequadamente representado pelo bezerro, já que começa com sacerdotes e termina com o bezerro que, tendo assumido sobre si os pecados de todos, foi sacrificado pela vida de todo o mundo. Era um bezerro sacerdotal. Ele é ao mesmo tempo o bezerro e Sacerdote. Ele é o sacerdote, porque ele é nosso Propiciador. Temo-lo como um advogado diante do Pai. Ele é o Bezerro, pelo qual nos redimiu com seu próprio sangue.",
+          "texto": "São Lucas manteve uma certa ordem histórica e nos revela mais milagros do Senhor, mas de maneira que a história de seu Evangelho abraçou a virtude de toda sabedoria.",
           "fonte_1": "Exposição do Evangelho de Lucas 1,4, 7",
           "fonte_2": "[EHG 1-5; CCL 14: 1-5; CSEL 32 4: 5-6, 8-9]",
           "marcacao_anti_catolica": false
@@ -19,15 +20,22 @@
         {
           "titulo": "O Evangelho que Paulo reivindica",
           "autor": "Eusébio",
-          "texto": "Lucas era pela raça um antioqueno e pela profissão médico. Há muito tempo tinha sido um companheiro de Paulo e tinha mais que uma relação casual com o resto dos apóstolos. Ele deixou para nós, em dois livros inspirados, exemplos da arte de curar almas que se obtém daqueles que foram curados. Esses livros são, a saber, o Evangelho e os Atos dos Apóstolos, que ele não compôs a partir de testemunhos de ouvir dizer, mas como foi demonstrado diante de seus próprios olhos. Dizem que Paulo estava realmente acostumado a citar o Evangelho segundo São Lucas. Ao escrever sobre algum Evangelho como seu próprio, costumava dizer: \"De acordo com meu evangelho.\"",
+          "texto": "Lucas era pela raça um antioqueno e pela profissão médico.",
           "fonte_1": "História Eclesiástica 3.4",
           "fonte_2": "[FC 19: 142-43; PG 20: 219-20]",
           "marcacao_anti_catolica": false
-        },
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 1:1",
+      "versiculo": 1,
+      "tema": "Uma Narrativa Querigmática",
+      "comentarios": [
         {
           "titulo": "Só quatro Evangelhos canônicos",
           "autor": "Orígenes",
-          "texto": "Com respeito ao Novo Testamento também \"muitos tentaram\" escrever Evangelhos, mas nem todos encontraram aceitação. Você deve saber que não apenas os quatro evangelhos, mas muitos, foram compostos. Os Evangelhos que temos foram escolhidos entre estes evangelhos e se transmitiram às igrejas. Sabemos isso pelo próprio prólogo de Lucas, que começa desta maneira: \"Porque muitos tentaram compor um relato\". As palavras \"tentaram\" implicam uma acusação contra aqueles que se apressaram em escrever evangelhos sem a graça do Espírito Santo. Mateus, Marcos, João e Lucas não \"tentaram\" escrever. Escreveram seus Evangelhos quando foram cheios do Espírito Santo.",
+          "texto": "Com respeito ao Novo Testamento também \"muitos tentaram\" escrever Evangelhos.",
           "fonte_1": "Homilias sobre o Evangelho de Lucas 1.1-3",
           "fonte_2": "[FC 94: 5-6; PG 13: 1801-3]",
           "marcacao_anti_catolica": false
@@ -35,13 +43,14 @@
       ]
     },
     {
+      "referencia": "Lucas 1:2",
       "versiculo": 2,
-      "trecho": "Testemunhas oculares e ministros da Palavra encarnada",
-      "comentarios_versiculo": [
+      "tema": "Testemunhas oculares e ministros",
+      "comentarios": [
         {
           "titulo": "Testemunhas oculares e ministros da Palavra encarnada",
           "autor": "Ambrósio",
-          "texto": "O ministério da palavra é maior que a audição da mesma. Não é a palavra falada, mas a Palavra essencial que se entende, aquela que se fez carne e habitou entre nós - assim não a entendam como a palavra comum, mas como essa Palavra celeste a quem os apóstolos ministraram.",
+          "texto": "O ministério da palavra é maior que a audição da mesma.",
           "fonte_1": "Exposição do Evangelho de Lucas 1.5",
           "fonte_2": "[EHG 9]",
           "marcacao_anti_catolica": false
