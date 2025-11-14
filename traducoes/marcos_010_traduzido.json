@@ -1,0 +1,160 @@
+{
+  "livro": "Marcos",
+  "capitulo": 4,
+  "versiculo_inicial": 2,
+  "versiculo_final": 10,
+  "blocos": [
+    {
+      "referencia": "Marcos 4:2",
+      "versiculo": 2,
+      "tema": "Ele lhes ensinou muitas coisas por parábolas",
+      "comentarios": [
+        {
+          "titulo": "Parábolas inesgotáveis",
+          "autor": "Orígenes",
+          "texto": "Tratamos de pensar de maneira geral acerca de cada parábola, cuja interpretação elaborada não foi registrada pelos evangelistas, recordando que Jesus explicou todas as coisas a seus próprios discípulos em privado. Os escritores dos Evangelhos não retiveram nenhuma exposição detalhada das parábolas, porque as coisas significadas por elas estavam além do poder das palavras para expressar. Nem sequer o próprio mundo inteiro poderia conter os livros que poderiam ser escritos para esclarecer e desenvolver plenamente as parábolas. Mas pode suceder que um coração receptivo será captar algo delas. A pureza de intenção permite um maior discernimento das parábolas, para que pudessem chegar a ser escritas no coração pelo Espírito de Deus vivo. Mas então alguém poderia responder que atuamos com impiedade quando queremos dar às parábolas significado simbólico, como se tivéssemos a autoridade para expor o que é secreto e místico. Isto às vezes se afirma, inclusive em casos nos quais se poderia supor que tínhamos algum conhecimento razoável de seu significado. Mas a isto há que responder que, se não são os que obtiveram algum dom de apreensão exata destas coisas, sabem o que devem fazer. Mas quanto a nós, reconhecemos facilmente que estamos à altura da capacidade de ver na profundidade das coisas significadas aqui. Nós melhor não nos aventuramos a pôr por escrito essas coisas das quais, inclusive depois de muito exame e consulta, só temos alguma percepção grosseira, seja por graça ou pelo poder de nossa própria mente. Mas algumas coisas básicas, pelo bem de nossa própria disciplina intelectual, e a dos que possam ter oportunidade de lê-las, permitimo-nos em certa medida expor.",
+          "fonte_1": "Comentário sobre Mateus 14,12",
+          "fonte_2": "[TLG 2042.030, 14.12.17-57; cf. ANF 9: 502.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 4:3",
+      "versiculo": 3,
+      "tema": "Um semeador saiu a semear",
+      "comentarios": [
+        {
+          "titulo": "O enterro da semente",
+          "autor": "Clemente de Roma",
+          "texto": "Pensai nas diversas maneiras, queridos amigos, pelas quais o mestre nos aponta para a próxima ressurreição, pela qual o Senhor Jesus Cristo se fez a primícia quando o ressuscitou dentre os mortos. Observemos, queridos amigos, algo assim como a forma na qual a ressurreição é tão frequentemente antecipada no curso da natureza. O dia e a noite, por exemplo: a noite se dorme, e surge o dia; o dia se afasta e volta a noite. Ou considerai o plantio de cultivos: como e de que maneira tem lugar a semeadura? O semeador vai adiante e põe na terra cada uma das sementes. Caem na terra seca e nua e a decadência. Logo de sua decadência a majestade da providência de Deus os cria, e de ser uma semente, muitos crescem e dão fruto. Ainda mais espetacular, recordai aquele notável prodígio que foi relatado nas regiões orientais nas proximidades da Arábia, de um pássaro chamado Fênix. Esta ave se diz que é de espécie única, talvez vivendo quinhentos anos. Quando o momento de sua dissolução e morte chega, faz para si mesmo um ninho de um ataúde de incenso e mirra e as outras especiarias, no qual, quando se completou, entra e morre. Mas à medida que a carne se descompõe, nasce um certo verme, que se nutre dos sucos da ave morta e, finalmente, cresce asas. Então, quando cresceu forte, tomará até aquele ninho ou ataúde que contém os ossos de seu pai, e levando o lixo, abre caminho desde o país da Arábia ao Egito, à cidade de Heliópolis. Ali, em plena luz do dia à vista de todos, voa para o altar do sol e as deposita ali, e logo se embarca em seu retorno, que os sacerdotes que examinam os registros pensam ocorre ao final do quingentésimo ano. Com todas estas indicações na natureza, por que deveria surpreender-nos que o criador do universo poderia provocar a ressurreição daqueles que lhe serviram com a santidade na garantia de uma boa fé, vendo que nos mostra inclusive por um pássaro da magnificência de sua promessa?",
+          "fonte_1": "1 Clemente 24,1-26,1",
+          "fonte_2": "[TLG 1271.001, 24,1 a 26,1; AF 24 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Que sai a semear",
+          "autor": "João Crisóstomo",
+          "texto": "Qual é o significado desta parábola? Ele saiu a semear sua semente. De onde podia \"sair\", aquele que está presente em todas as partes, e enche todos os lugares? Saiu, não num lugar, mas numa vida e numa dispensação histórica na qual nos salvou, sendo levado perto de nós pela razão de assumir nossa carne. Já que não pudemos entrar, pois nossos pecados haviam fechado a porta a nós, ele saiu a nós... Veio a cultivar e cuidar da terra. Semear a palavra de compaixão. Porque aqui ele chama sua semente ensinamento, as almas dos homens um campo arado, e ele mesmo semeador.",
+          "fonte_1": "Na temperança",
+          "fonte_2": "[TLG 2062.152, 57.467.26-33; SSGF 1: 392 *; PG 57,467-72.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 4:4",
+      "versiculo": 4,
+      "tema": "Alguma semente caiu junto ao caminho",
+      "comentarios": [
+        {
+          "titulo": "A semeadura indiscriminada",
+          "autor": "João Crisóstomo",
+          "texto": "Como o semeador de maneira justa e de maneira indiscriminada dispersa sementes amplamente sobre todo seu campo, assim oferece Deus presentes a todos, sem fazer distinção entre ricos e pobres, sábios e tolos, preguiçosos ou diligentes, valentes ou covardes. Dirige-se a todo o mundo, cumprindo sua parte, apesar de conhecer os resultados de antemão. ... Por que então, diga-me, foi tanto da semente perdida? Não através do semeador, mas através da base que o recebeu, isto é, a alma que não escutou. ... Apesar de que mais sementes se perderiam do que sobreviveriam, os discípulos não deveriam desanimar-se. Porque é o caminho do Senhor que nunca deixará de semear a semente, inclusive quando sabe de antemão que alguns não responderão. Mas como pode ser razoável, pergunta-se, semear entre espinhos, ou na rocha, ou ao lado da estrada? Talvez não seja razoável na medida em que se refere somente às sementes e a terra, porque a rocha nua, não é provável que se converta em solo cultivável, e a beira da estrada permanecerá na estrada e os espinhos, espinhos. Mas no caso da livre vontade e sua instrução razoável, este tipo de semeadura é digna de elogio. Pois a alma rochosa no tempo pode converter-se em solo rico. Entre as almas, o caminho já não pode chegar a ser pisoteado por tudo o que passe, e pode converter-se num campo fértil. Os espinhos podem ser destruídos e a semente desfrutar de pleno crescimento. Pois isto não havia sido impossível, este semeador não haveria semeado. E inclusive se não há mudança do que ocorra na alma, isto não é culpa do semeador, mas dos que não estão dispostos a mudar. Ele fez sua parte.",
+          "fonte_1": "O Evangelho de São Mateus, Homilía 44,5,1",
+          "fonte_2": "[NPNF 1 10: 281-82 *; cf. TLG 2062.152, 57.467.53-58, 468,12-14, 23-42.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 4:6",
+      "versiculo": 6,
+      "tema": "Desde então não tinha raiz, murchou",
+      "comentarios": [
+        {
+          "titulo": "A raiz da corrupção na vontade",
+          "autor": "João Crisóstomo",
+          "texto": "E se os brotos jovens de trigo murcham, isto é, não por causa do calor, pois não dizem que secou pelo calor, mas \"porque não tinha raízes\". E se o que nos foi ensinado é sufocado, tampouco é culpa dos espinhos, mas dos que lhes permitem crescer. Pois pode-se, se se quer, opor-se ao seu crescimento mal, e fazer um uso apropriado de seus recursos. Por esta razão não diz \"o mundo\", mas \"o afã deste século\"; não \"riquezas\", mas \"o engano das riquezas\". Ponhamos a culpa, não nas coisas criadas, mas na vontade corrupta.",
+          "fonte_1": "Na temperança",
+          "fonte_2": "[TLG 2062.152, 57.469.2-12; SSGF 1: 394].",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A causa da extinção",
+          "autor": "João Crisóstomo",
+          "texto": "Agora prestai especial atenção. Não há uma só maneira da destruição. Antes há várias maneiras que diferem uma de outra de maneira significativa. Alguns, como a semente ao longo da beira da estrada, são de mente grosseira, indiferentes e descuidados. Outros, os da rocha, são como as pessoas que não logram desde a única debilidade.",
+          "fonte_1": "O Evangelho de São Mateus, Homilía 44,5",
+          "fonte_2": "[NPNF 1 10: 282 *; TLG 2062.152, 57.468.43-47.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 4:7",
+      "versiculo": 7,
+      "tema": "Os espinhos cresceram e a sufocaram, e não deu fruto",
+      "comentarios": [
+        {
+          "titulo": "Sufocando a fecundidade",
+          "autor": "Pastor de Hermas",
+          "texto": "Os cardos são os ricos, e os espinhos são os que estão obcecados com ofertas comerciais. Tendem a não permanecer muito tempo com os servos de Deus. Afastam-se, sufocados pelas preocupações comerciais. O rico só com grande dificuldade se apega aos servidores de Deus, tendo temor de que alguém possa pedir algo deles. Tais pessoas, portanto, entrarão no reino de Deus só com dificuldade. Sabeis o difícil que é caminhar através dos cardos com os pés descalços? Só assim será difícil para eles entrar no reino de Deus.",
+          "fonte_1": "O Pastor de Hermas 3,9,20",
+          "fonte_2": "[TLG 1419.001, 97.1.1-3.1; ANF 2: 50 **; cf. AF 278.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 4:8",
+      "versiculo": 8,
+      "tema": "Dando trinta, sessenta e cem",
+      "comentarios": [
+        {
+          "titulo": "Disponibilidade de recepção",
+          "autor": "João Crisóstomo",
+          "texto": "Por que um solo produziu cem, outro sessenta e outro trinta? A diferença está na disposição da terra, porque ainda que o solo seja bom, seguem havendo diferenças na disposição dos solos. O defeito não se encontra no agricultor ou na semente, mas na condição da própria terra, sua disposição para receber.",
+          "fonte_1": "O Evangelho de São Mateus, Homilía 44,6",
+          "fonte_2": "[TLG 2062.152, 57.469.26-31; NPNF 1 10: 282 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Presentes variados",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Notai que Cristo contou três formas de desastre, e que três são igualmente os graus de glória. Pois a semente que caiu sobre o caminho foi capturada pelas aves. O que surgiu em terreno pedregoso rapidamente pereceu. O que cresceu no meio dos espinhos foi sufocada. Mas a boa terra desejável fez fruto, e com uma tripla diferença, como já disse; a cem, a sessenta, a trinta por um. Como escreve o mais instruído Paulo: \"Cada um tem seu próprio dom de Deus\", um após esta maneira, outros de outra. E não encontramos as boas ações dos santos homens serem todas de igual mérito. Mas nos corresponde esforçar-nos seriamente após suas melhores atuações, e elevar-nos acima das menos dignas; assim estaremos recompensados generosamente por Cristo, a quem, com o Pai e o Espírito Santo, a glória e a glória pelos séculos. Amém.",
+          "fonte_1": "Comentário ao Evangelho de Lucas 8,5,9",
+          "fonte_2": "[SSGF 1: 399; PG 72.628.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 4:10-20",
+      "versiculo": 10,
+      "tema": "O propósito das parábolas",
+      "comentarios": [
+        {
+          "titulo": "Visão geral",
+          "autor": "Anônimo",
+          "texto": "As parábolas são agarradas com os olhos da mente. Ao fazer visual a fala, as parábolas facilitam a recordação. Cada parábola é mais bem lida em relação com todo o tecido da Escritura. A Palavra se faz efetiva em nós por seu próprio poder. Nesta parábola, os crentes estão chamados a trabalhar sazonalmente para converter-se num bom solo. Preparação para o Espírito que habita requer uma capina rigorosa de desejos desordenados. Por cuidadoso cultivo pode-se residir neste mundo e não sufocar-se com seus cuidados. Só com a diligência e a graça pode-se desviar os assaltos do inimigo. Os que não têm raízes espirituais cairão em meio à tribulação. Deus pode curar ao retardar a cura, não seja que uma recuperação prematura deva render uma incurável. Jesus tratou com cautela os que trataram de encontrar um pretexto para os cargos penais contra ele.",
+          "fonte_1": "Visão geral patrística",
+          "fonte_2": "[Compilação de temas]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 4:10",
+      "versiculo": 10,
+      "tema": "Eles lhe perguntaram as parábolas",
+      "comentarios": [
+        {
+          "titulo": "A fixação da memória",
+          "autor": "João Crisóstomo",
+          "texto": "Ele fala em parábolas para também poder fazer seu discurso mais vívido, e fixar a memória dele neles com maior perfeição, e levar as coisas diante de sua vista, tal como os profetas também.",
+          "fonte_1": "O Evangelho de São Mateus, Homilía 44,3",
+          "fonte_2": "[TLG 2062.152, 57.467.21-25; NPNF 1 10: 281 *].",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A unidade orgânica da Sagrada Escritura",
+          "autor": "João Crisóstomo",
+          "texto": "Suponhamos que um médico extirpe uma porção do lado de um organismo, inclusive nessa pequena parte podes encontrar todos os elementos de que se compõe - nervos do conjunto e as veias, ossos, artérias e o sangue, e uma mostra, como se poderia dizer, de toda a massa. Assim também com respeito à unidade orgânica das Escrituras. Em cada porção distinta do que está escrito, pode-se ver a conexão com o todo que aparece com claridade.",
+          "fonte_1": "O Evangelho de São Mateus, Homilía 1,8",
+          "fonte_2": "[TLG 2062.152, 57.18.3-10; NPNF 1 10: 4 *.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
