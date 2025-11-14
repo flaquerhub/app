@@ -1,0 +1,170 @@
+{
+  "livro": "Lucas",
+  "capitulo": 9,
+  "versiculo_inicial": 1,
+  "versiculo_final": 16,
+  "blocos": [
+    {
+      "referencia": "Lucas 9:1-2",
+      "versiculo": 1,
+      "tema": "Os doze pregam e curam",
+      "comentarios": [
+        {
+          "titulo": "Doze e setenta recebem honra especial",
+          "autor": "Eusébio",
+          "texto": "O Senhor e Salvador, não muito depois do começo de sua pregação, chamou os doze apóstolos. Ele deu o nome de apóstolos somente a eles de todos os seus discípulos como uma honra especial. Mais tarde proclamou outros setenta e os enviou também de dois em dois adiante de si mesmo em cada lugar e cidade onde havia de vir.",
+          "fonte_1": "História Eclesiástica 1.10",
+          "fonte_2": "[FC 19: 72 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Jesus dando-lhes poder de curar e exorcizar",
+          "autor": "Cirilo de Alexandria",
+          "texto": "A graça concedida aos santos apóstolos é digna de toda admiração. Mas a liberalidade do Doador sobrepassa todo elogio e admiração. Ele lhes dá, como já disse, sua própria glória. Recebem autoridade sobre os espíritos malignos. Reduzem a soberba do demônio que foi tão altamente exaltado e arrogante. Eles tornam ineficaz a maldade do demônio. Pelo poder e a eficácia do Espírito Santo, queimando-os como se estivessem em chamas, fazem o diabo sair com gemidos e choro dos que havia possuído. Glorificava seus discípulos, portanto, dando-lhes autoridade e poder sobre os espíritos malignos e doenças também. Ele os honra sem razão e os torna famosos sem nenhuma causa lógica? Como pode ser isto verdade? Era necessário, muito necessário, que devessem ser capazes de fazer milagres, tendo sido ministros designados por autoridades públicas de proclamas sagrados. Através de suas obras, poderiam então convencer os homens de que eram os ministros de Deus e mediadores de todos sob o céu. Os apóstolos então poderiam convidar a todos à reconciliação e à justificação pela fé e assinalar o caminho da salvação e da vida que é esta justificação.",
+          "fonte_1": "Comentário de Lucas, Homilia 47",
+          "fonte_2": "[ CGSL 207-9 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 9:3-5",
+      "versiculo": 3,
+      "tema": "As instruções para a missão dos doze",
+      "comentarios": [
+        {
+          "titulo": "Livres da preocupação do corpo",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Era muito adequado para Jesus instruir seus discípulos a não levarem nada com eles. Ele desejava que ambos estivessem livres de todas as preocupações mundanas, e portanto totalmente isentos dos trabalhos que requerem as coisas do mundo, que nem sequer se preocupassem com a obtenção de alimentos necessários e indispensáveis para si mesmos. Evidentemente, aquele que instrui a abster-se até mesmo de coisas tais como estas corta completamente o amor às riquezas e o desejo de ganância. Pois sua glória, disse, e, por assim dizer, sua coroa, é não possuir nada. Separa-os até mesmo dessas coisas que são necessárias para seu uso, ordenando-lhes a levar nada em absoluto, nem bastão, nem alforje, nem pão, nem dinheiro, nem duas túnicas. Observe, portanto, como disse, que os afasta das distrações inúteis e ansiedade sobre o corpo. Ele ordena que não se preocupem com a comida, repetindo-lhes, por assim dizer, essa passagem no salmo: \"Põe tua confiança no Senhor, e ele te alimentará\". Pois o que Cristo também diz é verdade: \"Você não é capaz de servir a Deus e ao dinheiro\", e \"Porque onde estiver teu tesouro, ali estará teu coração também\".",
+          "fonte_1": "Comentário de Lucas, Homilia 47",
+          "fonte_2": "[ CGSL 210 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Pés que são formosos na pregação da boa nova",
+          "autor": "Ambrósio",
+          "texto": "Esta é uma grande visão. Mas se deseja vê-la, retire as sandálias dos pés. Elimine todas as cadeias do pecado. Retire as cadeias do mundo. Deixe para trás as sandálias terrenas. Jesus enviou os apóstolos sem sandálias, sem dinheiro, ouro e prata, para que não levassem coisas da terra com eles. Aquele que busca fazer o bem não é louvado por suas sandálias mas pela rapidez e a graça de seus pés. A Escritura diz: \"Quão formosos são os pés dos que anunciam a paz, dos que anunciam o evangelho dos bens!\" Portanto elimine as sandálias dos pés, para que possam ser belos para a pregação do Evangelho.",
+          "fonte_1": "Fuga do mundo 5.25",
+          "fonte_2": "[FC 65: 300-301 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Dependendo da hospitalidade de outros",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Ele ordenou que ambos permanecessem em uma casa, e dela tomassem sua saída. Porque foi justo que aqueles que uma vez haviam recebido não devessem ser defraudados da doação. Também é verdade que os mesmos apóstolos santos não deviam depositar nenhum impedimento no caminho de seu próprio zelo e fervor na pregação da palavra de Deus. Isto sucederia se permitissem que fossem retirados a várias casas por aqueles cujo objetivo não era aprender alguma lição necessária, mas pô-los em uma mesa de luxo, além do que era moderado e necessário.",
+          "fonte_1": "Comentário de Lucas, Homilia 47",
+          "fonte_2": "[ CGSL 211 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Casas incrédulas que rejeitam a pregação apostólica são abandonadas",
+          "autor": "Ambrósio",
+          "texto": "Assim a fé da igreja deve ser buscada em primeiro lugar. Se Cristo há de viver em uma casa, esta sem dúvida deve ser escolhida. Mas para que um povo infiel ou um mestre herético desfigure sua casa, ordena-se à Igreja que a comunhão dos hereges seja evitada e a sinagoga rejeitada. O pó deve ser sacudido de seus pés, não seja que quando a secura da incredulidade árida desmorona, a sola de sua mente se tinja como por um solo seco e arenoso. Um pregador do Evangelho deve preocupar-se por si mesmo com as debilidades corporais de um povo fiel, por assim dizer. Deve levantar e retirar de suas próprias plantas dos pés ações sem valor como se fossem pó. Porque está escrito: \"Quem enferma, e eu não enfraquecerei?\" Qualquer igreja que rejeita a fé e não possui os fundamentos da pregação apostólica há de ser abandonada para que não seja capaz de manchar outros com incredulidade. O apóstolo também afirmou claramente isto dizendo: \"Rejeita um homem que é um herege, depois da admoestação\".",
+          "fonte_1": "Exposição do Evangelho de Lucas 6,68",
+          "fonte_2": "[ EHG 216-17 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 9:6",
+      "versiculo": 6,
+      "tema": "A saída dos doze",
+      "comentarios": [
+        {
+          "titulo": "Homens medíocres e mal equipados",
+          "autor": "João Crisóstomo",
+          "texto": "Cristo teve o poder de pôr a raça humana livre de todos estes males, não só os romanos, mas também os persas e simplesmente cada raça de bárbaros. Teve êxito em fazer isto sem a força das armas, nem o gasto de dinheiro, nem iniciando guerras de conquista, nem inflamando os homens à batalha. Tinha somente onze homens para começar, homens que eram medíocres, sem instrução, mal informados, miseráveis, pobremente vestidos, sem armas ou sandálias, homens que tinham senão uma só túnica para levar.",
+          "fonte_1": "Manifestação contra os pagãos 1.7",
+          "fonte_2": "[FC 73: 189 *.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 9:7-11",
+      "versiculo": 7,
+      "tema": "Introdução ao milagre",
+      "comentarios": [
+        {
+          "titulo": "Ensinar e curar precedem o milagre",
+          "autor": "Beda",
+          "texto": "Vês, nosso Senhor proporcionou o estímulo para a multidão que o seguia como a Páscoa, dia festivo dos judeus, se aproxima. Fê-lo mediante suas palavras de salvação, juntamente com a ajuda de suas curas. Como escreveu outro evangelista, falou-lhes acerca do reino de Deus e sanou os que tinham necessidade de ser curados. Quando se completaram seus atos de ensino e cura, refrescou-os com maior abundância a partir de uma pequena quantidade de comida.",
+          "fonte_1": "Homilias sobre os Evangelhos 2.2",
+          "fonte_2": "[CS 111: 13 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Os que recebem o alimento de Cristo são primeiro curados",
+          "autor": "Ambrósio",
+          "texto": "Depois de a lei ter falhado, a comida do Evangelho começa a alimentar os famintos corações do povo... Foi apropriado que aqueles a quem havia sanado da dor das feridas fossem libertados da fome com o alimento espiritual. Portanto não recebe o alimento de Cristo a menos que se cure primeiro, e o chamado à primeira cura é para aqueles que são chamados à festa. Se um era coxo, recebeu a capacidade de caminhar, para que viesse. Se um carecia da vista de seus olhos, de fato não poderia entrar na casa do Senhor, a menos que recuperasse a vista.",
+          "fonte_1": "Exposição do Evangelho de Lucas 6,69-70",
+          "fonte_2": "[ EHG 217 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 9:12-15",
+      "versiculo": 12,
+      "tema": "Preparação",
+      "comentarios": [
+        {
+          "titulo": "Milagre de Moisés do maná",
+          "autor": "Cirilo de Alexandria",
+          "texto": "A alimentação das multidões no deserto por Cristo é digna de toda admiração. Mas também é proveitosa de outra forma. Podemos ver claramente que estes novos milagres estão em harmonia com os da antiguidade. São os atos de um e o mesmo poder. Ele fez chover maná no deserto sobre os israelitas. Deu-lhes pão do céu. \"Comeu o homem alimento de anjos\", de acordo com as palavras de elogio nos Salmos. Mas veja! Há de novo abundantemente suprido alimentos aos que necessitavam de alimentos no deserto. Caiu, por assim dizer, do céu. Multiplicando aquela pequena quantidade de alimentos tantas vezes e alimentando tantas multidões tão grandes, por assim dizer, sem nada, é como o primeiro milagre.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 48",
+          "fonte_2": "[ CGSL 215 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Os cinco livros de Moisés",
+          "autor": "Agostinho",
+          "texto": "Os cinco pães são entendidos como os cinco livros de Moisés. Com razão, não são pães de trigo mas de cevada, porque pertencem ao Antigo Testamento. Você sabe que a cevada foi criada de tal maneira que apenas se pode chegar a seu núcleo. Este núcleo está revestido com uma cobertura de casca, e esta casca é tenaz e aderente, de maneira que se remove com esforço. Tal é a letra do Antigo Testamento, vestida das coberturas de mistérios carnais. Se alguém chega a seu núcleo, alimenta-se e satisfaz-se.",
+          "fonte_1": "Tratados sobre o Evangelho de São João 24,5",
+          "fonte_2": "[FC 79: 234-35 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O mistério dos pães explicado",
+          "autor": "Ambrósio",
+          "texto": "Pois lemos que primeiro cinco mil são alimentados com cinco pães, e depois quatro mil com sete pães. Assim vamos buscar o mistério que representa o milagre. Os cinco mil, como cinco sentidos do corpo, parecem ter recebido de Cristo comida similar à comida física. Mas os quatro mil encontram-se ainda no corpo e no mundo que se sabe ser de quatro elementos... Sete cestas de fragmentos permaneceram dos quatro mil. Este pão de dias de repouso não é pão ordinário. É pão santificado. É um pão de descanso. Talvez, se vai comer primeiro dos cinco pães com os sentidos, me atreverei também a dizer que não vai comer o pão da terra no terceiro dia, depois de comer os cinco pães e os sete. Pode comer oito pães acima da terra, como os que estão nos céus. Como os sete pães são pães de repouso, assim os oito pães são os pães da ressurreição. Portanto aqueles que se alimentam dos sete pães perseverarão ao terceiro dia e, talvez, alcançarão toda a fé e a firmeza da ressurreição futura. Depois está a voz dos santos: \"Iremos caminho de três dias, para que possamos comer com o Senhor nosso Deus\".",
+          "fonte_1": "Exposição do Evangelho de Lucas 6,79-80",
+          "fonte_2": "[ EHG 221-22 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 9:16",
+      "versiculo": 16,
+      "tema": "O milagre",
+      "comentarios": [
+        {
+          "titulo": "O pão é a Palavra de Deus que cresce misticamente",
+          "autor": "Ambrósio",
+          "texto": "Este pão que Jesus rompe é realmente a Palavra de Deus mística e um discurso acerca de Cristo que se incrementa enquanto se distribui. De uns poucos discursos, ministrou abundante alimento a todos os povos. Deu discursos a nós como pães que se duplicam quando se vertem adiante da boca. Aquele pão de uma maneira incompreensível se incrementa visivelmente quando se rompe, quando se distribui, quando se come sem nenhuma compreensão da forma em que se proporciona... Na verdade, os dons de Cristo parecem pequenos, mas são muito grandes. Não se outorgam a uma pessoa, mas aos povos, pois a comida cresceu na boca dos que comeram. Esta comida parecia ser para o alimento corporal mas foi tomada para a salvação eterna.",
+          "fonte_1": "Exposição do Evangelho de Lucas 6,86, 88",
+          "fonte_2": "[ EHG 224-26 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Cristo ainda tem que alimentá-los com a comida mais forte",
+          "autor": "Ambrósio",
+          "texto": "O fim do mistério se conserva em todas as partes. A primeira cura de feridas é outorgada através da remissão dos pecados. A seguir, o alimento da mesa celestial abunda, ainda que esta multidão não se alimente ainda com os alimentos mais fortes, nem corações famintos de alimentação mais sólida na fé no corpo e no sangue de Cristo. Ele diz: \"Dei-vos a beber leite, e não carne. Pois então não eram fortes, nem estão ainda\". Os cinco pães são como o leite, mas a carne é mais sólida que o corpo de Cristo, e a bebida mais forte é o sangue do Senhor. Não imediatamente de início damos um banquete com todos os alimentos, nem tampouco bebemos todas as bebidas. \"Primeiro bebe isto\", diz. Portanto há um primeiro, e depois uma segunda coisa que você bebe. Também há uma primeira coisa que você come, e depois uma segunda, e depois uma terceira. No princípio há cinco pães, depois há sete. O terceiro pão é o verdadeiro corpo de Cristo. Assim, pois, nunca devemos abandonar tal Senhor. Está de acordo em outorgar a nós alimento de acordo com a força de cada um, para que um alimento demasiado forte não oprima o débil ou um alimento demasiado pobre não satisfaça os fortes.",
+          "fonte_1": "Exposição do Evangelho de Lucas 6,71-72",
+          "fonte_2": "[ EHG 218 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Satisfação do alimento milagroso prefigura o corpo e o sangue do Senhor",
+          "autor": "Ambrósio",
+          "texto": "Também há um mistério em que as pessoas que comem estão satisfeitas. Os apóstolos ministram a eles. O sinal se dá de fome satisfeita para sempre, porque aquele que recebeu o alimento de Cristo não terá fome de novo. A distribuição futura do corpo e do sangue do Senhor se baseia no ministério dos apóstolos. Já está ali no milagro da maneira como cinco pães se multiplicam para cinco mil pessoas. Está claro que as pessoas não estavam satisfeitas com um pequeno mas com uma grande quantidade de alimentos.",
+          "fonte_1": "Exposição do Evangelho de Lucas 6,84",
+          "fonte_2": "[ EHG 224 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
