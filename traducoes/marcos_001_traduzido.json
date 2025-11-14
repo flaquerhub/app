@@ -1,0 +1,201 @@
+{
+  "livro": "Marcos",
+  "capitulo": 1,
+  "versiculo_inicial": 1,
+  "versiculo_final": 5,
+  "blocos": [
+    {
+      "referencia": "Marcos 1:1",
+      "versiculo": 1,
+      "tema": "O princípio",
+      "comentarios": [
+        {
+          "titulo": "Preparação do coração",
+          "autor": "Orígenes",
+          "texto": "O caminho do Senhor deve estar preparado dentro do coração; porque grande e espaçoso é o coração do homem, como se tratasse de um mundo inteiro. Mas veja sua grandeza, não em quantidade física, mas no poder da mente que lhe permite abarcar tão grande conhecimento da verdade. Preparai, portanto, em vossos corações o caminho do Senhor, por uma maneira digna da vida. Segui reto o caminho de vossa vida, de modo que as palavras do Senhor entrem sem obstáculos.",
+          "fonte_1": "Homilias sobre Lucas 21,5,7",
+          "fonte_2": "[SSGF 1: 75 *; PG 13: 1856].",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O ponto de início",
+          "autor": "Agostinho",
+          "texto": "Tenha em conta que Marcos não menciona nada sobre o nascimento ou a infância ou a juventude do Senhor. Ele fez seu Evangelho começar diretamente com a pregação de João.",
+          "fonte_1": "Harmonia dos Evangelhos 2,6,18",
+          "fonte_2": "[CETEDOC 0273, 2.6.18.113.20; NPNF 1 10: 70-71; cf. NPNF 16: 113].",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 1:1",
+      "versiculo": 1,
+      "tema": "O Evangelho",
+      "comentarios": [
+        {
+          "titulo": "Antigo e Novo Testamento em ponte",
+          "autor": "Orígenes",
+          "texto": "O Evangelho ocupa-se principalmente de Jesus Cristo, que é a cabeça de todo o corpo dos que se salvam. Marcos transmite este ponto quando diz: \"O princípio do Evangelho com respeito a Cristo Jesus\". Em seu desdobramento o Evangelho tem um princípio, um meio e um fim a continuar. O início pode ser visto seja como todo o Antigo Testamento, com João Batista sendo seu tipo de resumo, ou (devido a que se encontra na união do novo com o velho) as etapas finais da Antiga Aliança. Isto vai contra aqueles que atribuem os dois pactos a dois deuses diferentes.",
+          "fonte_1": "Comentário sobre João 1,14",
+          "fonte_2": "[TLG 2042.005, 1.13.79.1-5, 80,1-6, 82.1-1.14.82.3; cf. AEG 1: 279; ANF 9: 304.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A relação do Evangelho e a Lei",
+          "autor": "Orígenes",
+          "texto": "Aqueles que se aprofundam no conhecimento do cristianismo não tratam o que está escrito na lei com falta de respeito... Ao dizer: \"O princípio do evangelho de Jesus Cristo, como está escrito no profeta Isaías\", Marcos mostra que o começo do evangelho está intrinsecamente conectado com o Antigo Testamento.",
+          "fonte_1": "Contra Celso 2,4",
+          "fonte_2": "[TLG 2042.001, 2.4.15-17, 25-31; cf. ANF 4: 431].",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O inaugurador do Novo Testamento",
+          "autor": "Cirilo de Jerusalém",
+          "texto": "Com o batismo o antigo pacto termina e começa o novo. Isto se vê no fato de que o inaugurador do Novo Testamento é João Batista. \"Entre os nascidos de mulher não há nenhum maior que João\". Ele é a coroa de toda a tradição profética: \"Porque todos os profetas e a lei profetizaram até João\". Da dispensação do evangelho eram as primícias, porque lemos \"o princípio do evangelho de Jesus Cristo\" e depois de algumas palavras \"João batizava no deserto\".",
+          "fonte_1": "Conferências Catequéticas 3,6",
+          "fonte_2": "[TLG 2110.003, 3.6.1-6; LCC 4: 93 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 1:2",
+      "versiculo": 2,
+      "tema": "Meu mensageiro",
+      "comentarios": [
+        {
+          "titulo": "A voz do que clama",
+          "autor": "Ireneu",
+          "texto": "Quão bem faz o começo do Evangelho concentrar-se nas expectativas dos santos profetas. Ao mesmo tempo que assinala que Aquele a quem confessaram como Deus e Senhor, o Pai de nosso Senhor Jesus Cristo, também havia feito a promessa a ele, enviaria seu mensageiro diante de sua face. Este era João, que clama no deserto, no \"espírito e poder de Elias\", \"Preparai o caminho do Senhor, endireitai suas veredas\". Pois os profetas não anunciaram primeiro a um Deus e depois a outro, senão um e o mesmo Deus sob aspectos complementares, e com muitos nomes diferentes.",
+          "fonte_1": "Contra as Heresias 3,10,5",
+          "fonte_2": "[02:39 AHR; ANF 1: 426 **].",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Por que João foi visto como um mensageiro angélico",
+          "autor": "Tertuliano",
+          "texto": "Agora o chamou um \"anjo\" por causa da grande consequência dos feitos poderosos, que ia cumprir, comparáveis aos feitos poderosos de Josué filho de Nun, de quem lestes. João serve no ofício de profeta para anunciar a vontade de Deus, como o precursor do Ungido. O Espírito, falando com a voz do Pai, chamou João um \"anjo\" de acordo com a promessa declarada por Malaquias: \"Eis que envio meu mensageiro para preparar o caminho diante de mim\". Não é novidade que o Espírito Santo chamasse \"anjos\" aqueles que nomeou ministros de seu poder.",
+          "fonte_1": "Resposta aos Judeus 9",
+          "fonte_2": "[CETEDOC 0033, 9.163; ANF 3: 163 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Sua aparição repentina",
+          "autor": "Eusébio",
+          "texto": "Sai do deserto vestido com uma roupa estranha, nega toda relação social ordinária. Nem sequer compartilha sua comida comum. Porque está escrito que desde a infância João esteve nos desertos até o dia de sua manifestação a Israel. De fato, sua roupa estava feita de pelo de camelo! Seu alimento era gafanhotos e mel silvestre!... É compreensível que devessem ter alarmado ao ver um homem com o cabelo de um nazireu de Deus, e uma face divina, que aparece repentinamente do deserto solitário vestido com roupa estranha, que depois de haver pregado a eles, desapareceu novamente ao deserto, sem comer nem beber ou misturar-se com as pessoas? Não devem ter suspeitado que era um pouco mais que humano? Porque como poderia um ser humano viver sem comida? E assim o entendem como um mensageiro divino, o anjo predito pelo profeta.",
+          "fonte_1": "Prova do Evangelho 9,5",
+          "fonte_2": "[TLG 2018.005, 9.5.10.7-11.4, 12,7; POG 2: 162-63 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A autoridade do batismo de João",
+          "autor": "Agostinho",
+          "texto": "A eficácia do batismo de João é atestada pelo caminho santo que viveu como pessoa. Seu batismo estava de acordo com a justiça de um homem justo, não obstante permanecia um simples homem, mas havia recebido a graça extraordinária do Senhor, uma graça tão grande que foi considerado digno de preceder ao Juiz final da história, e apontá-lo com seu dedo, e cumprir as palavras da profecia: \"a voz do que clama no deserto, preparai o caminho para o Senhor\".",
+          "fonte_1": "Tratado sobre o Evangelho de João 5,6,2",
+          "fonte_2": "[CETEDOC 0278, 5.6.10; FC 78: 113 *].",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 1:3",
+      "versiculo": 3,
+      "tema": "A voz do que clama",
+      "comentarios": [
+        {
+          "titulo": "A voz e o grito na pregação de João",
+          "autor": "Máximo de Turim",
+          "texto": "Voz e grito vão de mãos dadas: a voz prega a fé; o grito chama ao arrependimento; a voz, o conforto; o grito, o perigo; a voz canta a misericórdia; o grito anuncia o juízo.",
+          "fonte_1": "Sermão 6",
+          "fonte_2": "[0219a CETEDOC, 6,35.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 1:3",
+      "versiculo": 3,
+      "tema": "Preparar o caminho do Senhor",
+      "comentarios": [
+        {
+          "titulo": "As fontes de referência profética de Marcos",
+          "autor": "Orígenes",
+          "texto": "Marcos tomou duas profecias que se falam em diferentes lugares pelos dois profetas e as combinou em uma só, com o fim de declarar: \"Como está escrito em Isaías o profeta...\" \"A voz de um que clama no deserto\", que está de fato registrada imediatamente depois da narração acerca da recuperação de Ezequias de sua enfermidade. Isto então se combinou com \"Eis que envio meu mensageiro para preparar o caminho diante de mim\", de Malaquias. Tanto João como Marcos comprimem de diversas formas a citação de Isaías, Marcos lendo \"Seus caminhos\" para \"os caminhos de nosso Deus\" e omitindo \"diante de mim\".",
+          "fonte_1": "Comentário sobre João 6,24",
+          "fonte_2": "[TLG 2042.005, 6.24.129.6-8, 130,2-131,9; cf. AEG 1: 279-80].",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A mistura de vozes proféticas",
+          "autor": "Jerônimo",
+          "texto": "A citação está feita a partir de dois profetas, Malaquias e Isaías. A primeira parte: \"Eis que envio meu mensageiro para preparar o caminho diante de mim\", ocorre ao final de Malaquias. Mas a segunda parte: \"A voz de um que clama\", etc., lê-se em Isaías. Sobre que base tem então Marcos no começo mesmo de seu livro colocado as palavras: \"Como está escrito no profeta Isaías: Eis que envio meu mensageiro\", quando, como dissemos, não está escrito em Isaías em absoluto, mas em Malaquias, o último dos doze profetas? Deixe que a presunção ignorante resolva esta bela pergunta se pode. Vou pedir perdão por estar errado... O apóstolo não renderizou sua palavra original palavra por palavra, mas usando uma paráfrase, deu o sentido em termos diferentes.",
+          "fonte_1": "Carta 57 Para Pammáquio 9",
+          "fonte_2": "[CETEDOC 0620, 57.54.9.518.15; NPNF 26: 116-17 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 1:4",
+      "versiculo": 4,
+      "tema": "O batismo de conversão para o perdão dos pecados",
+      "comentarios": [
+        {
+          "titulo": "O batismo de arrependimento",
+          "autor": "Tertuliano",
+          "texto": "João pediu o batismo de arrependimento para preparar o caminho do Senhor. Ele mesmo abriu esse caminho por meio do sinal e do selo de arrependimento para todos os que Deus estava chamando através da graça para herdar a promessa certamente feita a Abraão... Chamou-nos para purgar a mente de qualquer erro de impureza que houvesse impartido, qualquer que fosse a ignorância de contaminação que houvesse engendrado, que varreria o arrependimento e a socavação, e expulsaria. Assim preparai a casa de vosso coração de modo que esteja limpa para o Espírito Santo.",
+          "fonte_1": "Sobre o arrependimento 2",
+          "fonte_2": "[0010 CETEDOC, 2,14; ANF 3: 658 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Fazendo pronto para outro",
+          "autor": "Tertuliano",
+          "texto": "Aqueles que buscavam o batismo de arrependimento foram tratados como candidatos que se preparam para a remissão do batismo e de santificação que logo iam chegar no ministério de Cristo. Quando João pregava o batismo de \"a remissão dos pecados\", a declaração foi feita com referência a uma futura remissão. Se é assim, o chamado de João ao arrependimento é o caminho, e a remissão real é seguir. Isto é o que se entende por \"preparar o caminho\". Mas o que se prepara a si mesmo não se faz perfeito, senão que mais bem faz pronto para outro aperfeiçoar.",
+          "fonte_1": "Sobre o batismo 10",
+          "fonte_2": "[CETEDOC 0008, 10,32; ANF 3: 674 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O Batista e os batizados",
+          "autor": "Cipriano",
+          "texto": "O Senhor foi batizado por seu servo. Aquele santo que estava destinado a conceder a remissão dos pecados não desdenhou submeter seu corpo a ser purificado com a água da regeneração.",
+          "fonte_1": "O bem da Paciência 6",
+          "fonte_2": "[CETEDOC 0.048, 6.112; FC 36: 268 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Preparação para o perdão",
+          "autor": "João Crisóstomo",
+          "texto": "Já que a vítima não havia sido oferecida, nem tinha o Espírito Santo ainda descido, de que tipo era esta remissão dos pecados?... Como corresponde, portanto, quando havia dito que veio \"pregando o batismo de arrependimento\", acrescenta, \"para a remissão dos pecados\"; como dizendo: persuadiu-os a arrepender-se de seus pecados, para que posteriormente pudessem receber mais facilmente o perdão através de crer em Cristo. Pois não sendo trazidos a ele pelo arrependimento, não buscariam o perdão. Portanto, seu batismo serviu outro fim senão como preparação para a fé em Cristo.",
+          "fonte_1": "O Evangelho de São Mateus, Homilia 10,2",
+          "fonte_2": "[SSGF 1:74; cf. TLG 2062.152, 57.185.57-61.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 1:5",
+      "versiculo": 5,
+      "tema": "Foram batizados no rio Jordão",
+      "comentarios": [
+        {
+          "titulo": "A remissão dos pecados futura",
+          "autor": "Jerônimo",
+          "texto": "O batismo de João não consiste tanto no perdão dos pecados, mas em ser um batismo de conversão para perdão dos pecados, isto é, para a remissão futura, que era seguir através da santificação de Cristo.",
+          "fonte_1": "Diálogo contra os Luciferianos 7",
+          "fonte_2": "[CETEDOC 0608, 7.170.30; NPNF 26: 323.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Tipos de batismo",
+          "autor": "Gregório Nazianzeno",
+          "texto": "Tratemos brevemente dos diferentes tipos de batismo. Moisés batizou, mas na água, na nuvem e no mar; mas isto o fez em sentido figurado. João também batizou, não certamente no rito dos judeus, não somente na água, mas também para a remissão dos pecados; não de maneira totalmente espiritual, porque não havia acrescentado: \"no espírito\". Jesus batizou, mas no espírito; e isto é a perfeição. Também há um quarto batismo, feito pelo martírio e pelo sangue, com o qual Cristo foi batizado também, que é muito mais venerável que os demais, na medida em que não se suja por contágio repetido. No entanto, há um quinto, mas mais laborioso, pelas lágrimas; com o qual Davi cada noite molhava seu leito, lavando o leito de lágrimas.",
+          "fonte_1": "Oração 39, sobre os Santos das luzes",
+          "fonte_2": "[TLG 2022.047, 36.353.37-356.7; SSGF 1: 74-75; cf. Sl 6,7].",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
