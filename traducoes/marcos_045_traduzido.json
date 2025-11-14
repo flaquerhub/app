@@ -1,0 +1,169 @@
+{
+  "livro": "Marcos",
+  "capitulo": 16,
+  "versiculo_inicial": 5,
+  "versiculo_final": 12,
+  "blocos": [
+    {
+      "referencia": "Marcos 16:5",
+      "versiculo": 5,
+      "tema": "Sentado no lado direito, vestido com uma túnica branca",
+      "comentarios": [
+        {
+          "titulo": "A Palavra da Vida Eterna",
+          "autor": "Gregório Magno",
+          "texto": "E que nós também tomamos nota do que significa que o anjo é visto sentado no lado direito. Pois o que quer dizer o lado esquerdo, senão a vida presente; e a parte direita, senão a vida eterna? ... E assim, já que nosso redentor já passou para além da mortalidade da vida presente, com razão o anjo, que havia vindo para anunciar sua entrada na vida eterna, senta-se no lado direito. E veio, vestido de branco, porque ele estava anunciando a alegria de nossa presente solenidade.",
+          "fonte_1": "Homilias 21",
+          "fonte_2": "[CETEDOC 1711, 2.21.2.16; SSGF 2: 242.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "As posturas angelicais prefiguram Seu Ofício Sacerdotal e Real",
+          "autor": "Beda",
+          "texto": "Foi conveniente que o arauto de sua ressurreição fosse informado que estava sentado, de maneira que ao sentar-se pudesse prefigurar que, tendo triunfado sobre o autor da morte, ascenderia a seu assento em seu reino eterno. ... Sentar-se em um trono é o ato de um rei, e estar de pé em um lugar de sacrifício é o de um grande sacerdote. Porque nosso redentor se dignou a ser para nós, ao mesmo tempo tanto um rei quanto um sacerdote, um sacerdote que nos limpa de nossos pecados por ser uma oferta de sacrifício em sua paixão, um rei para que nos conceda um reino eterno. Os anjos que anunciam sua ressurreição apareceram sentados para significar que ele havia ido buscar seu assento no reino dos céus depois de haver vencido a morte. Também apareceram de pé para demonstrar que também intercede por nós nos mistérios de seu pai como um sumo sacerdote.",
+          "fonte_1": "Exposição sobre o Evangelho de Marcos 2,7; 2,10",
+          "fonte_2": "[CETEDOC 1367, 2.7.100; 2.10.116; HOG 2:62, 92. Dado que nosso Redentor era ao mesmo tempo sacerdote e rei, os anjos que anunciaram sua ressurreição apareceram na postura de ambos sacerdote (de pé, como em Lucas) e Rei (sentado, como em Marcos). \"Estar de pé é apropriado para uma luta, sentar-se para um governo. Era lógico que o anjo que proclama a vinda de nosso Senhor no mundo apareceu de pé, que por sua posição pudesse expressar o fato de que aquele que estava proclamando vinha a lutar com o príncipe deste mundo\" HOG 2:62.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 16:6",
+      "versiculo": 6,
+      "tema": "Buscais a Jesus de Nazaré, o crucificado",
+      "comentarios": [
+        {
+          "titulo": "O madeiro como sinal",
+          "autor": "João Damasceno",
+          "texto": "Quando adoramos a imagem da cruz preciosa e dadora de vida, sabemos que está feita de um madeiro. Não estamos honrando o madeiro como tal (Deus não o permita), mas a semelhança como um símbolo de Cristo. Pois disse a seus discípulos, admoestando-os: \"Então aparecerá a sinal do Filho do Homem no céu,\" significando a cruz. E assim também o anjo da ressurreição disse às mulheres: \"Buscais a Jesus de Nazaré, o crucificado.\" E o apóstolo disse: \"Nós pregamos a Cristo crucificado.\" Porque há muitos chamados Jesus e muitos dos que podem presumir ser o Cristo, mas adoramos ao crucificado. Ele não diz perfurado, mas crucificado. Nos corresponde, pois, adorar o sinal de Cristo. Por onde quer que o sinal esteja, também haverá ele. Mas não nos compete adorar o material do qual se compõe a imagem da cruz, ainda que seja de ouro ou pedras preciosas.",
+          "fonte_1": "A Fé Ortodoxa 4,11",
+          "fonte_2": "[TLG 2934.004, 84,61-71; NPNF 29: 80 *; cf. FC 37: 351.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 16:6",
+      "versiculo": 6,
+      "tema": "Ele ressuscitou",
+      "comentarios": [
+        {
+          "titulo": "O poder vivificante de sua ressurreição",
+          "autor": "Constituições Apostólicas",
+          "texto": "A ressurreição na qual cremos é a que já se demonstrou na ressurreição de nosso Senhor. Porque é ele que levantou a Lázaro depois de haver estado na tumba quatro dias. E a filha de Jairo. E ao filho da viúva. É ele que levantou a si mesmo pelo comando do Pai no espaço de três dias, que é a garantia de nossa ressurreição. Porque diz: \"Eu sou a ressurreição e a vida.\" Agora o mesmo que trouxe Jonas vivo e ileso de dentro do ventre da baleia no espaço de três dias, e que trouxe os três filhos do forno da Babilônia e Daniel da boca dos leões, não carece de poder para nos levantar também.",
+          "fonte_1": "Constituições dos Santos Apóstolos 5,7",
+          "fonte_2": "[PG 1: 844; ANF 7: 440 *. O poder de sua ressurreição é a premissa da nossa. Estamos sendo ressuscitados a uma nova vida por causa de sua ressurreição, o que demonstra que Deus não carece de poder para nos levantar também.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A morte da morte",
+          "autor": "Agostinho",
+          "texto": "Morreu, mas venceu a morte; em si mesmo pôs fim ao que temíamos; encarregou-se dela e a venceu, como um poderoso caçador capturou e matou o leão. Onde está a morte? Busque-a em Cristo, pois já não existe; mas existia e agora está morta. Oh vida, oh morte da morte! Seja de bom coração; ela vai morrer em nós, também. O que ocorreu em nossa cabeça se levará a cabo em seus membros; a morte morrerá também em nós. Mas quando? Ao fim do mundo, na ressurreição dos mortos na qual cremos e a respeito da qual não duvidamos.",
+          "fonte_1": "Sermão 233,3-4",
+          "fonte_2": "[CETEDOC 0284, 233.38.1114.27; FC 38: 221.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Sua ressurreição recapitulada em nosso batismo",
+          "autor": "Basílio de Selêucia",
+          "texto": "Cristo desceu aos infernos para libertar seus cativos. Em um instante ele destruiu todos os registros da dívida antiga efetuados em aplicação da lei, com o fim de nos levar ao céu, onde não há morte, mas somente a vida eterna e a justiça. Pelo batismo que o recém-iluminado acaba de receber, agora se compartilha nestas bênçãos. Sua iniciação na vida da graça é a promessa da ressurreição. Seu batismo é a promessa da vida do céu. Por sua imersão imitastes o sepultamento do Senhor, mas quando saístes da água éreis conscientes somente da realidade da ressurreição. ... A graça do Espírito trabalha de maneira misteriosa na fonte, e a aparência exterior não deve obscurecer a maravilha dela. Embora a água sirva como o instrumento, é a graça que dá o renascimento. A graça transforma todos os que se colocam na fonte como a semente se transforma no útero. Refaz todos os que descem na água como o metal se lança novamente em um forno. Lhes revela os mistérios da imortalidade; os sela com a promessa da ressurreição. Estes maravilhosos mistérios são simbolizados por vocês, os recém-iluminados, inclusive nas vestes que usam. Descubram como estão vestidos dos sinais externos destas bênçãos. O brilho radiante de vosso manto representa a incorruptibilidade. A faixa branca rodeando vossa cabeça como uma diadema proclama vossa liberdade. Na mão seguram o sinal de vossa vitória sobre o diabo. Cristo vos está mostrando que ressuscitou dos mortos. O faz agora de uma maneira simbólica, mas logo se revelará a realidade completa se mantivermos a veste de fé imaculada, e não deixarmos que o pecado apague a lâmpada da graça. Se preservarmos a coroa do Espírito, o Senhor vai chamar desde o céu com uma voz de grande majestade, mas cheia de ternura: Vinde, benditos de meu Pai, tomar posse do reino preparado para vós desde a criação do mundo. A ele seja a glória e o poder pelos séculos, através dos séculos sem fim, amém.",
+          "fonte_1": "Homilia de Páscoa",
+          "fonte_2": "[TLG 2800.003, 28.1080.23-42; JF B 46-47.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 16:9",
+      "versiculo": 9,
+      "tema": "Ressuscitou muito cedo no primeiro dia da semana",
+      "comentarios": [
+        {
+          "titulo": "Os três dias",
+          "autor": "Inácio",
+          "texto": "O dia da preparação, então, compreende o sofrimento da morte, o sábado abraça o sepultamento, o dia do Senhor contém a ressurreição.",
+          "fonte_1": "Para os Tralianos 9",
+          "fonte_2": "[TLG 1443.002, 2.9.6.1-2; ANF 1:70. O primeiro dia da semana é o dia depois do sábado da Páscoa. Desta maneira, houve três dias.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Guardar a Páscoa",
+          "autor": "Autor Desconhecido grego do século V",
+          "texto": "Este é o dia que fez o Senhor: vamos guardar com alegria e regozijo. Por que deveríamos fazê-lo? Porque o sol já não se escurece; ao contrário tudo está banhado pela luz. Porque o véu do templo já não é rasgado; em seu lugar se reconhece a Igreja. Porque já não temos ramos de palmeira; ao invés levamos o recém-iluminado ... Este é o dia no verdadeiro sentido: o dia do triunfo, o dia de comissão consagrado à ressurreição, o dia em que nos ataviamos com graça, o dia em que tomamos parte do cordeiro espiritual. Este é o dia em que se dá leite aos nascidos de novo, e no qual se realiza o plano de Deus para os pobres. Guardemos sempre com alegria e regozijo, não por sair correndo às tabernas, mas acelerando aos santuários dos mártires; não por estimar a embriaguez, mas amando a temperança; não dançando na praça do mercado, mas cantando salmos em casa. ... Este é o dia em que Adão foi posto em liberdade e Eva livrou de sua aflição. É o dia em que estremeceu, fez-se pedaços a morte cruel com a força das pedras duras e foi destruída, as barras de tumbas estavam quebradas e postas de lado. É o dia em que os corpos das pessoas mortas há muito foram restaurados à sua antiga vida e as leis dos baixos fundos, até agora sempre poderosas e imutáveis, foram revogadas. É o dia em que se abriram os céus na ressurreição de Cristo o Senhor, e no qual, pelo bem da raça humana, a árvore florescente e frutífera da ressurreição enviou ramificações em todo o mundo, como se o mundo fosse um jardim. É o dia em que os lírios do recém-iluminado surgiram, as correntes que sustinham os pecadores se secaram, a força do diabo esvaiu-se e se dispersaram exércitos demoníacos.",
+          "fonte_1": "Homilias de Páscoa 51,1-3",
+          "fonte_2": "[JF B 88-89; SC 187, 318-22.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Por isso o primeiro dia da semana é separado",
+          "autor": "Isidoro de Sevilha",
+          "texto": "O caráter sagrado do Dia do Senhor se depreende da sagrada Escritura. Este foi o primeiro dia do mundo. Neste dia se formaram os elementos da criação. Neste dia se criaram os anjos. Neste dia Cristo ressuscitou de entre os mortos. Neste dia o Espírito Santo desceu do céu sobre os apóstolos. Esse mesmo dia foi dado pela primeira vez o maná no deserto.",
+          "fonte_1": "A Origem dos Ofícios Eclesiásticos 1,24",
+          "fonte_2": "[CETEDOC 1207, 1.25.6; GMI 444-45. Dia até a ressurreição, o primeiro dia da semana, se distingue, segundo a santificação cristã do tempo, como o tempo de novos começos comparável com o primeiro dia da criação, o dia de Pentecostes e a recepção de pão do céu pelo povo do êxodo.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 16:9",
+      "versiculo": 9,
+      "tema": "Sua primeira aparição a Maria Madalena, de quem havia expulsado sete demônios",
+      "comentarios": [
+        {
+          "titulo": "A mulher caída primeira a ver o Senhor ressuscitado",
+          "autor": "Beda",
+          "texto": "Uma mulher [Eva] provou primeiro a morte, mas em Madalena a mulher viu pela primeira vez a ressurreição, para que a mulher não suportasse a culpa da transgressão perpétua entre os homens.",
+          "fonte_1": "Exposição sobre o Evangelho de Marcos 4,16,9-10",
+          "fonte_2": "[CETEDOC 1355, 16.04.1860; CCL 120: 643; GC 1: 443. A mulher foi a primeira a provar a queda e a primeira a contemplar a ressurreição.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O primeiro anúncio se produz pela mulher",
+          "autor": "Beda",
+          "texto": "Também era uma mulher que anunciou pela primeira vez aos discípulos que o Senhor havia saído do confinamento da tumba, de modo que \"quando o pecado cresceu a graça fosse mais abundante.\"",
+          "fonte_1": "Comentário sobre Atos 12,13",
+          "fonte_2": "[CETEDOC 1357, 12,52; CAA 113. Eva foi a primeira a provar a morte; Maria Madalena foi a primeira a saborear a vida.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 16:12",
+      "versiculo": 12,
+      "tema": "Enquanto caminhavam no campo ele apareceu em outra forma a dois deles",
+      "comentarios": [
+        {
+          "titulo": "Impediu seu reconhecimento",
+          "autor": "Agostinho",
+          "texto": "Parece como se um impedimento para o reconhecimento se havia efetuado aos olhos dos que o contemplavam; e quando se diz claramente em outra parte: \"Ele lhes apareceu em outra forma\" — obviamente em seu próprio corpo com outro aspecto — algum efeito foi produzido que atuou como um impedimento para preveni-los, isto é, seus olhos foram submetidos a um atraso no reconhecimento.",
+          "fonte_1": "Carta 149, Para Paulino",
+          "fonte_2": "[CETEDOC 0262, 149.44.3.377.2; FC 20: 263. Uma obstrução para o interior de sua visão pode haver atrasado seu reconhecimento externo.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Marcos 16:12",
+      "versiculo": 12,
+      "tema": "Eles não lhe creram",
+      "comentarios": [
+        {
+          "titulo": "A obscuridade de sua percepção",
+          "autor": "Agostinho",
+          "texto": "Seus olhos se obstruem, para que não o devessem reconhecer até a fração do pão. E por isso, de acordo com o estado de suas mentes, que seguiam sendo ignorantes da verdade (que o Cristo ia morrer e ressuscitar), seus olhos estavam impedidos de maneira similar. Não é que a verdade em si lhes era enganosa, mas que eram incapazes de perceber a verdade.",
+          "fonte_1": "Harmonia dos Evangelhos 3,25,72",
+          "fonte_2": "[CETEDOC 0273, 3.25.72.371.21; NPNF 1 6: 217 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Por que o reconhecimento correu com força",
+          "autor": "Agostinho",
+          "texto": "Jesus apareceu; era visível aos olhos, contudo não foi reconhecido. O mestre entrou com eles no caminho; de fato, foi a forma na qual ainda não estavam a pé; mas se encontrou com que haviam vagado a certa distância do caminho. Pois quando estava com eles antes de sua paixão, ele havia predito tudo o que sofreria, que ia morrer, que ia ressuscitar novamente no terceiro dia — ele havia predito tudo; mas sua morte foi como uma perda de memória para eles. Eram tão perturbados quando o viram pendurado na cruz que se esqueceram de seu ensinamento, não buscaram sua ressurreição, e fracassaram em cumprir suas promessas em mente.",
+          "fonte_1": "Sermão 235,1",
+          "fonte_2": "[CETEDOC 0284, 235.67.138.19; FC 38: 228.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
