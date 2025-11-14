@@ -1,0 +1,188 @@
+{
+  "livro": "Lucas",
+  "capitulo": 1,
+  "versiculo_inicial": 34,
+  "versiculo_final": 41,
+  "blocos": [
+    {
+      "referencia": "Lucas 1:34-35",
+      "versiculo": 34,
+      "tema": "A concepção de Jesus e mais designações do Messias",
+      "comentarios": [
+        {
+          "titulo": "Superior a todo entendimento",
+          "autor": "Leão Magno",
+          "texto": "Mas o nascimento de nosso Senhor Jesus Cristo sobrepassa todo entendimento e vai além de qualquer precedente.",
+          "fonte_1": "Sermão 30.4.2",
+          "fonte_2": "[FC 93: 128-29 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Voto de virgindade de Maria",
+          "autor": "Agostinho",
+          "texto": "De fato, sua virgindade era em si mesma mais bela e mais agradável, porque Cristo, em sua concepção, não por si mesmo a distância que estava preservando de violação por parte da humanidade; mas, antes de ser concebido escolheu uma já consagrada a Deus de que ele ia nascer.",
+          "fonte_1": "Santa virginidade 4",
+          "fonte_2": "[FC 27: 146 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O nascimento virginal um mistério divino",
+          "autor": "Ambrósio",
+          "texto": "Aqui Maria parece não haver crido, a menos que prestemos muita atenção, já que não é justo que quem foi eleita para levar o unigênito Filho de Deus deva parecer haver sido sem fé. E como pode ser isto? Ainda que a prerrogativa da mãe, na qual de imediato uma maior prerrogativa de ser conferida está intacta, como não podia ser que Zacarias que não havia crido foi condenado ao silêncio, mas Maria, se não houvesse crido, seria exaltada pela infusão do Espírito Santo? Mas com uma maior prerrogativa, também uma maior fé deve ser reservada para ela. Mas Maria deve crer, e não tão descuidadamente usurpar. Ela deve crer ao anjo e não usurpar as coisas divinas. Tampouco é fácil conhecer \"o mistério que havia estado oculto desde os séculos em Deus\", que as autoridades superiores não podiam conhecer tampouco. No entanto, ela não negou a fé, ela não se negou ao serviço, mas conformou sua vontade, prometeu obediência. Porque na verdade quando disse: \"Como será isto?\" Ela não duvida sobre o resultado buscado, mas a natureza deste mesmo resultado.",
+          "fonte_1": "Exposição do Evangelho de Lucas 2,14",
+          "fonte_2": "[EHG 40 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Gabriel deve temer a Maria, não Maria a Gabriel",
+          "autor": "Teófanes",
+          "texto": "Mãe de Deus: deixe claro a mim, como eu, uma virgem, lhe levarei? / O anjo: Busca conhecer de mim a forma de sua concepção, virgem, mas isto é mais além de toda interpretação! O Espírito Santo lhe obscurecerá com seu poder criador e fará suceder isto! / Mãe de Deus: Quando aceitou a sugestão da serpente, minha mãe Eva foi expulsa da alegria divina. Portanto, temo que sua estranha saudação, para que tenha cuidado de que não tenha um deslize. / O anjo: Fui enviado como mensageiro de Deus para revelar a vontade divina para ti. Por que tens medo de mim, uma mácula? Eu antes tenho medo de ti! Por que se põe de pé no temor de mim, oh senhora, que está de pé no temor reverente de você?",
+          "fonte_1": "Canon da Anunciação",
+          "fonte_2": "[FM 450 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O Espírito de impregnação",
+          "autor": "Prudêncio",
+          "texto": "Teve que ser redimido: meu Espírito desceu / E a carne impregnada feito do pó / Com a natureza divina; Deus assumiu / A humanidade, unindo-a com a divindade, / E acendeu nos corações dos homens novo amor de mim.",
+          "fonte_1": "Contra Símmaco 2,265-69",
+          "fonte_2": "[FC 52: 149].",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Nascimento de Jesus é previsto nosso nascimento a uma nova vida",
+          "autor": "Pedro Crisólogo",
+          "texto": "\"Que nasceu do Espírito Santo.\" Precisamente portanto está Cristo nascido para ti, de tal maneira que possa mudar sua própria forma de nascimento... Anteriormente, a morte se esperava que o sol poente de sua vida; ele quer que você tenha um novo nascimento da vida. \"Que nasceu do Espírito Santo da Virgem Maria.\" Onde está o Espírito está engendrando, e uma virgem dar à luz, tudo levado a cabo é divino; nada disto é meramente humano.",
+          "fonte_1": "Sermão 57",
+          "fonte_2": "[FC. 17: 107]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A água do batismo é como o ventre da Virgem",
+          "autor": "Leão Magno",
+          "texto": "Cada um é participante desta origem espiritual na regeneração. Para cada um, quando volta a nascer, a água do batismo é como o ventre da Virgem, pelo mesmo Espírito Santo enche a fonte, que encheu a Virgem, que o pecado, que essa concepção sagrada derrubou, possa ser tirado por esta Lavagem mística.",
+          "fonte_1": "Sermão 24,3",
+          "fonte_2": "[NPNF 2 12: 135 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Através da liberdade do nascimento virginal",
+          "autor": "Agostinho",
+          "texto": "O primeiro pecador, o primeiro transgressor, engendrou pecadores sujeitos à morte. Para curá-los, o Salvador veio da Virgem; porque não chegou a vós pelo mesmo caminho, ao ver que não se originou no apetite sexual de homens e mulheres, não desde essa cadeia de luxúria. O Espírito Santo, diz, virá sobre ti. Isso foi dito à Virgem brilhando com fé, não fervendo de desejo carnal. O Espírito Santo virá sobre ti e o poder do Altíssimo te fará sombra. Sendo eclipsado assim, como poderia estar fervendo com o calor do desejo sexual? Portanto, porque não chegou a vós pelo mesmo caminho, que vos faz livre.",
+          "fonte_1": "Sermão 153,14",
+          "fonte_2": "[WSA 3 5:65.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Fecundada pelo Espírito Santo",
+          "autor": "Prudêncio",
+          "texto": "Quando a vinda de Deus se aproxima, o anjo Gabriel / avança / Desde o alto do trono do Pai e entra na casa / da Virgem. / \"Maria,\" diz, \"o Espírito Santo os fará frutífera, / E dareis à luz a Cristo, oh Virgem gloriosa\".",
+          "fonte_1": "Cenas da história sagrada 25",
+          "fonte_2": "[FC 52: 187].",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Pairando no Espírito Santifica a Criação Caída",
+          "autor": "Efrém, o Sírio",
+          "texto": "Foi apropriado que o arquiteto das obras da criação viesse e levantasse a casa que havia caído e que o Espírito pairando santificasse os edifícios que estavam imundos. Portanto, se o Progenitor confiou o juízo que há de vir a seu Filho, está claro que ele realizou a criação da humanidade e sua restauração através dele também. Era a brasa, que havia chegado a acender as sarças e espinhos. Ele viveu no útero e o purificou e santificou o lugar das dores de parto e as maldições. A chama, que Moisés viu, foi umedecendo o arbusto e a destilação da gordura para que não se inflamasse. A semelhança de ouro refinado podia ser vista no monte, de entrar no fogo, mas sem ser consumido. Isto sucedeu para que se possa dar a conhecer que o fogo que havia de vir ao final, o regando e umedecendo o seio da Virgem e confeccionando-o como o fogo que envolveu o arbusto que vive.",
+          "fonte_1": "Comentário sobre o Diatesarão de Taciano 1.25",
+          "fonte_2": "[ECTD 53 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Maria representa atualmente o templo, Tabernáculo e a Arca",
+          "autor": "Teófanes",
+          "texto": "O anjo: Alegra-te, senhora; regozijai-vos, virgem puríssima! Alegra-te, Deus-recipiente que contém! Alegra-te, candelabro do iluminamento, a restauração de Adão e de Eva a liberação! Alegra-te, montanha sagrada, brilhante santuário! Alegra-te, câmara nupcial da imortalidade! / Mãe de Deus: O descenso do Espírito Santo purificou minha alma; santificou meu corpo; converteu-me num templo que contém a Deus, um tabernáculo divinamente adornado, um santuário de vida e a mãe pura da vida. / O anjo: Vejo-te como uma lâmpada com muitas luzes; uma câmara nupcial feita por Deus! Donzela impecável, como uma arca de ouro, receberá agora o doador da lei, que através de vocês teve o prazer de libertar a natureza corrupta da humanidade!",
+          "fonte_1": "Canon da Anunciação",
+          "fonte_2": "[FM 455 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O Espírito Santo traz uma nova criação",
+          "autor": "João Damasceno",
+          "texto": "E através da invocação do poder ensombrecedor do Espírito Santo se converte numa chuva deste novo cultivo. Porque assim como todas as coisas que fez Deus fez pela operação do Espírito Santo, portanto também é pela operação do Espírito que se fazem estas coisas que sobrepujam a natureza e não podem ser distinguidas exceto pela fé. \"Como será isto para mim\", perguntou a Virgem, \"porque eu não conheço varão?\" O arcanjo Gabriel respondeu: \"O Espírito Santo virá sobre ti e o poder do Altíssimo te cobrirá com sua sombra\". E agora perguntas como o pão se converte no corpo de Cristo e o vinho e a água no sangue de Cristo. E te digo que o Espírito Santo desce e trabalha estas coisas que estão além da descrição e compreensão.",
+          "fonte_1": "A fé ortodoxa 4.13",
+          "fonte_2": "[FC 37: 357.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 1:36-38",
+      "versiculo": 36,
+      "tema": "O sinal de Maria e sua resposta de fé",
+      "comentarios": [
+        {
+          "titulo": "Jesus de entre tribos sacerdotal e real",
+          "autor": "Beda",
+          "texto": "Agora, quando o mediador entre Deus e os seres humanos apareceu no mundo, foi conveniente que teve sua origem física de ambas tribos, já que, na humanidade que assumiu, possuiria os papéis de ambos sacerdote e rei.",
+          "fonte_1": "Homilia sobre os Evangelhos 1.3",
+          "fonte_2": "[CS 110: 26-27.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A obediência de Maria Reverte a desobediência de Eva",
+          "autor": "Irineu",
+          "texto": "Assim o Senhor agora manifestamente veio aos seus. Nascido por sua própria ordem criada que ele mesmo dá, que por sua obediência na árvore renova e se inverte o que se fez pela desobediência em relação com uma árvore. O poder daquela sedução pela qual a virgem Eva, já prometida a um homem, havia sido seduzida com malícia se rompeu quando o anjo em verdade trouxe boas notícias à Virgem Maria, que já por seus esponsais pertencia a um homem. Porque assim como Eva foi seduzida pela palavra de um anjo para fugir de Deus, depois de haver se rebelado contra sua Palavra, assim Maria pela palavra de um anjo recebeu a boa nova de que ela daria à luz a Deus obedecendo sua Palavra. A primeira foi seduzida a desobedecer a Deus e assim caiu, mas esta última foi persuadida a obedecer a Deus, de modo que a Virgem Maria pudesse converter-se na defensora de Eva. À medida que a raça humana foi submetida à morte através do ato de uma virgem, portanto se salvou por uma virgem foi equilibrado, precisamente pela obediência de outra. Então sim o pecado do primeiro homem formado foi modificado pelo castigo do primogênito, a sabedoria da serpente foi conquistada pela simplicidade da pomba, e as correntes se romperam pelas quais fomos escravos da morte.",
+          "fonte_1": "Contra as Heresias 5,19-20",
+          "fonte_2": "[LCC 1: 389-90 *.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 1:39-40",
+      "versiculo": 39,
+      "tema": "Maria Jornada para saudar Isabel",
+      "comentarios": [
+        {
+          "titulo": "Maria visita Isabel para que Jesus pudesse Abençoar João",
+          "autor": "Orígenes",
+          "texto": "Homens melhores vão aos mais fracos para dar-lhes alguma vantagem por suas visitas. Deste modo o Salvador veio a João para santificar o batismo de João... Jesus estava em seu ventre, e apressou-se a santificar João, que ainda estava no ventre de sua própria mãe. Antes de Maria chegar e saudar Isabel, o menino não se regozijou em seu ventre. Mas tão logo Maria falou a palavra que o Filho de Deus, no ventre de sua mãe, havia fornecido, \"o menino saltou de alegria\". Nesse momento, Jesus fez seu antecessor um profeta pela primeira vez.",
+          "fonte_1": "Homilias sobre o Evangelho de Lucas 7.1",
+          "fonte_2": "[FC 94: 28-29 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A humildade de Maria",
+          "autor": "Beda",
+          "texto": "Foi para que pudesse oferecer suas felicitações em relação com o dom que havia aprendido sua conserva havia recebido. Este não foi ao fim de demonstrar a palavra do anjo pela certificação de uma mulher. Ao contrário, foi de maneira que como uma jovem virgem atenciosa pudesse comprometer-se ao ministério a uma mulher de idade avançada.",
+          "fonte_1": "Homilias sobre os Evangelhos 1.4",
+          "fonte_2": "[CS 110: 31-32 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 1:41",
+      "versiculo": 41,
+      "tema": "O bebê João Salta no ventre de Isabel",
+      "comentarios": [
+        {
+          "titulo": "Salto de João uma sinal milagrosa da Fé",
+          "autor": "Agostinho",
+          "texto": "Vemos exemplos de saltar não só em meninos, mas até em animais, ainda que certamente não para qualquer fé ou religião ou reconhecimento racional de alguém que vem. Mas este caso se destaca como totalmente raro e novo, já que se levou a cabo num útero, e na vinda da que estava para dar à luz ao Salvador da humanidade. Portanto este saltar, esta saudação, por assim dizer, se ofereceu à mãe do Senhor é milagroso. É a ter em conta entre os grandes sinais. Não se efetuou por meio humano por parte do bebê, senão por meio divino no lactente, como milagres são geralmente forjados.",
+          "fonte_1": "Carta 187.23",
+          "fonte_2": "[FC 30: 239 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "João Profetiza desde o seio materno",
+          "autor": "Máximo de Turim",
+          "texto": "Não haviam ainda nascido, já João profetiza e, quando ainda estava no recinto da matriz de sua mãe, confessa a vinda de Cristo com os movimentos de alegria, já que não podia fazê-lo com sua voz. Como diz Isabel a Santa Maria, \"Tão logo me saudou, o menino em meu seio exultante de alegria\". João se regozija, então, antes de nascer. Antes de que seus olhos possam ver o que o mundo vê, pode reconhecer ao Senhor do mundo com seu espírito. Neste sentido, creio que a frase profética é apropriada: \"Antes que te formasse no ventre te conheci, e antes de que saíste do seio materno, te consagrei\". Portanto não devemos maravilhar-nos que depois de Herodes o pôr na prisão, continuou em anunciar a Cristo a seus discípulos de seu confinamento, quando ainda confinado no útero, anunciava o mesmo Senhor por seus movimentos.",
+          "fonte_1": "Sermão 5.4",
+          "fonte_2": "[ACW 50: 24 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O vivificado ventre de Isabel",
+          "autor": "Efrém, o Sírio",
+          "texto": "João saltou de alegria para fazer um anúncio sobre sua futura pregação. O bebê da mulher estéril se regozijou ante o Menino da virgem. Buscou a língua de sua mãe e deseja pronunciar uma profecia acerca do Senhor. Portanto a concepção de Isabel se manteve oculta de Maria durante seis meses, até que o bebê teria membros suficientemente formados para regozijar-se ante o Senhor com seu salto e converter-se numa testemunha a Maria através de sua exaltação. Além disso, que se regozijava no ventre de sua mãe não era de si mesmo, nem por causa de seus cinco meses, senão para que os dons divinos pudessem mostrar-se na matriz estéril que agora lhe estava levando. Também foi para que a outra matriz, a da Virgem, conhecesse os grandes presentes dados a Isabel, e que os dois solos pudessem crer nas sementes que haviam recebido através da palavra de Gabriel, cultivador de ambos motivos. Posto que João não podia gritar em sua exaltação e dar testemunho de seu Senhor, sua mãe começou a dizer: \"Bendita és tu entre as mulheres, e bendito o fruto de teu ventre\". Nosso Senhor preparou seu arauto num ventre morto, a demonstrar que se produziu depois de um Adão morto. Ele vivifica o ventre de Isabel, e logo vivificou o solo de Adão através de seu corpo.",
+          "fonte_1": "Comentário sobre o Diatesarão de Taciano 1.30",
+          "fonte_2": "[ECTD 57-58 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
