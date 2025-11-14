@@ -1,0 +1,157 @@
+{
+  "livro": "Lucas",
+  "capitulo": 10,
+  "versiculo_inicial": 30,
+  "versiculo_final": 42,
+  "blocos": [
+    {
+      "referencia": "Lucas 10:30-35",
+      "versiculo": 30,
+      "tema": "A parábola do bom samaritano",
+      "comentarios": [
+        {
+          "titulo": "Jericó, uma imagem do mundo",
+          "autor": "Ambrósio",
+          "texto": "Jericó é uma imagem deste mundo. Adão, expulso do paraíso, aquela Jerusalém celestial, desceu a ele pelo erro de sua transgressão, isto é, partindo dos vivos ao inferno, para quem não muda de lugar, mas de conduta fez o exílio de sua natureza. Foi mudado enormemente desde aquele Adão que gozava da bem-aventurança eterna. Quando ia a pecados mundanos, Adão caiu em mãos de ladrões, entre os quais não teria caído se não tivesse se afastado da ordem do céu e se tornado vulnerável a eles. Quem são esses ladrões, senão os anjos da noite e da obscuridade, que às vezes se transformam em anjos de luz mas não podem perseverar? Estes primeiro roubam a roupa de graça espiritual que recebemos e estão acostumados a infligir feridas. Se preservamos sem manchar as vestes que pusemos adiante, não podemos sentir os golpes dos ladrões. Tenha cuidado, por temor a que você seja despojado primeiro como Adão foi despojado primeiro da ordem celestial, defraudado de proteção, e despojou-se da veste de fé. Recebeu uma ferida mortal na qual toda a raça humana teria caído se aquele Samaritano, em sua viagem, não houvesse cuidado de suas lesões graves.",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,73",
+          "fonte_2": "[ EHG 262-63 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Jesus é o bom samaritano",
+          "autor": "Ambrósio",
+          "texto": "Aquele extraordinário Samaritano não evitou mesmo aquele a quem o sacerdote e o levita haviam rejeitado. No nome de uma seita, não se pode fugir daquele que se pode admirar pela interpretação da palavra. De fato, \"protetor\" é significado pelo nome Samaritano. A interpretação indica isto. Quem é o Guarda, senão \"O Senhor preserva os pequenos\"? Portanto, já que é um judeu na letra e outro no espírito, assim não é um samaritano em público, outro em segredo. Aqui o samaritano desce. Quem é ele senão aquele que desceu do céu, que também ascendeu ao céu, o Filho do homem que está no céu? Quando o vê meio morto a quem ninguém podia curar antes, como aquela com um fluxo de sangue que havia passado toda sua herança nos médicos, aproximou-se dele. Tornou-se um próximo pela aceitação de nosso sentimento comum e parentes pelo dom da misericórdia.",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,74",
+          "fonte_2": "[ EHG 263 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Uma interpretação alegórica do bom samaritano",
+          "autor": "Orígenes",
+          "texto": "Um dos anciãos queria interpretar a parábola da seguinte maneira. O homem que ia descendo é Adão. Jerusalém é o paraíso, e Jericó é o mundo. Os ladrões são potências hostis. O sacerdote é a lei, o levita são os profetas, e o samaritano é Cristo. As feridas são a desobediência. A besta é o corpo do Senhor. O pandochium (isto é, o estábulo), que aceita todos os que desejam entrar, é a Igreja. As duas moedas significam o Pai e o Filho. O gerente do estábulo é a cabeça da Igreja, ao qual se confiou seu cuidado. O fato de que o samaritano promete que voltará representa a segunda vinda do Salvador... O samaritano \"que se compadeceu do homem que havia caído em mãos de ladrões\", é realmente um \"guardião\", e um próximo mais perto que a Lei e os Profetas. Demonstrou que era próximo do homem pela escritura mais que com as palavras. De acordo com a passagem que diz: \"Sede imitadores de mim, como também eu o sou de Cristo\", é possível que nós imitemos a Cristo e tenhamos piedade dos que puderam \"ter caído em mãos de ladrões\". Ir a eles, unir suas feridas, verter o azeite e o vinho, pô-los em nossos próprios animais, e levar suas cargas. O Filho de Deus nos anima a fazer coisas como esta. Está falando não tanto ao mestre da lei como a nós e a todo o mundo quando diz: \"Vai e faze o mesmo\". Se o fizermos, receberemos a vida eterna em Cristo Jesus, ao qual é a glória e o poder para as eras das eras. Amém.",
+          "fonte_1": "Homilias sobre o Evangelho de Lucas 34.3, 9",
+          "fonte_2": "[FC 94: 138, 141 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A misericórdia de Deus encontrada nos sacramentos da Igreja",
+          "autor": "Agostinho",
+          "texto": "Ladrões deixaram-no meio morto no caminho, mas foi encontrado deitado pelo Samaritano que passava e bondoso. Vinho e azeite foram vertidos em ti. Recebeste o sacramento do Filho unigênito. Foste levantado em sua mula. Creste que Cristo se fez carne. Foste trazido à pousada, e estás sendo curado na Igreja. Isto é onde e por que estou falando. Isto é o que eu também, o que todos nós estamos fazendo. Estamos levando a cabo as funções do pousadeiro. Disse-se-lhe: \"Se gastares mais, te pagarei quando voltar\". Se gastarmos ao menos tanto como nós recebemos! Por muito que gastemos, irmãos e irmãs, é o dinheiro do Senhor.",
+          "fonte_1": "Sermão 179a.7-8",
+          "fonte_2": "[ WSA 3 5: 312 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O médico tem muitos remédios",
+          "autor": "Ambrósio",
+          "texto": "\"Vendou suas feridas, deitando nelas azeite e vinho\". Aquele médico tem muitos remédios com os quais está acostumado a curar. Seu discurso é um remédio. Uma de suas frases cura as feridas, outras tratam com azeite, outra verte o vinho. Une feridas com uma norma mais estrita. Trata com o perdão dos pecados. Pica com a ameaça de juízo, como se com vinho.",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,75",
+          "fonte_2": "[ EHG 263 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Ao dia seguinte celebra o dia da ressurreição",
+          "autor": "Ambrósio",
+          "texto": "\"Ao dia seguinte\", o que é este dia seguinte, senão esse dia da ressurreição do Senhor, do qual se disse: \"Este é o dia que fez o Senhor\"? \"Tirou duas moedas e as deu ao hospedeiro, e disse-lhe: 'Cuida dele'\".",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,79",
+          "fonte_2": "[ EHG 264 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "As duas moedas são os dois Testamentos",
+          "autor": "Ambrósio",
+          "texto": "Quais são essas duas moedas, a menos que talvez os dois Testamentos que contêm reveladas em seu interior a imagem do Rei dos séculos, ao preço de cujas feridas são curados? Precioso sangue nos redimiu, para que possamos evitar as chagas da morte final.",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,80",
+          "fonte_2": "[ EHG 264 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O dono é um administrador dos mistérios",
+          "autor": "Ambrósio",
+          "texto": "Ditoso o pousadeiro que pode cuidar das feridas do outro. Bem-aventurado aquele a quem Jesus diz: \"Tudo o que gastares por cima, te pagarei\". Um bom administrador é aquele que também gasta por cima. Paulo é um bom administrador, cujos sermões e epístolas transbordam com o conhecimento que recebeu. Seguiu o comando moderado do Senhor com um esforço quase imoderado da mente e do corpo, pelo que levantou muitos de profunda tristeza pela administração de exortação espiritual. Era um bom guardião de sua pousada, na qual o asno sabe o presépio de seu senhor e os rebanhos de cordeiros estão encerrados. Temia que o caminho seria fácil para rapaces lobos uivando fora dos currais para atacar os redis.",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,82",
+          "fonte_2": "[ EHG 264-65 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 10:36-37",
+      "versiculo": 36,
+      "tema": "Aquele que teve misericórdia",
+      "comentarios": [
+        {
+          "titulo": "Cristo deseja ser nosso próximo",
+          "autor": "Agostinho",
+          "texto": "Deus nosso Senhor desejava ser chamado nosso próximo. O Senhor Jesus Cristo significou que ele foi aquele que deu ajuda ao homem que jazia meio morto no caminho, golpeado e deixado pelos ladrões. O profeta disse na oração: \"Como próximo e como próprio irmão, por isso fez que me agradasse\". Uma vez que a natureza divina é muito superior e acima de nossa natureza humana, o comando pelo qual devemos amar a Deus é distinto de nosso amor ao próximo. Ele tem misericórdia de nós por causa de sua própria bondade, enquanto mostramos piedade entre nós devido à bondade de Deus. Tem compaixão de nós para que o desfrutemos por completo, enquanto nós temos compaixão de outros para que o desfrutem por completo.",
+          "fonte_1": "Instrução cristã 33",
+          "fonte_2": "[FC 2: 51 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O amor a Cristo como próximo",
+          "autor": "Ambrósio",
+          "texto": "Já que ninguém está mais perto do que aquele que cuidou de nossas feridas, amemo-lo como nosso Senhor, e amemo-lo como nosso próximo. Nada está tão perto como a cabeça dos membros. Nós também o amamos que é o seguidor de Cristo, amemos aquele que na unidade de corpo tem compaixão das necessidades do outro.",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,84",
+          "fonte_2": "[ EHG 265 *.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 10:38-42",
+      "versiculo": 38,
+      "tema": "Uma coisa é necessária",
+      "comentarios": [
+        {
+          "titulo": "Marta prepara a comida para o Santo dos santos e seus santos",
+          "autor": "Agostinho",
+          "texto": "O Senhor tinha um corpo. E assim como se dignou assumir um corpo físico por nosso bem, assim também fez que se dignasse a ter fome e sede. Como resultado do fato de que se dignou a ter fome e sede, condescendeu a ser alimentado pelos que ele mesmo enriqueceu. Condescendeu a ser recebido como um convidado, não da necessidade, mas em desgraça. Marta estava ocupada satisfazendo as necessidades daqueles que tinham fome e sede. Com profunda preocupação, preparou o que o Santo dos santos e de seus santos comeriam e beberiam em sua casa. Era um trabalho importante, mas transitório. Não sempre será necessário comer e beber, não é verdade? Quando nos apegarmos à bondade mais pura e perfeita, a porção não vai ser uma necessidade.",
+          "fonte_1": "Sermões 255,2",
+          "fonte_2": "[FC 3 8: 350 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Maria deu um festim com o pão de vida",
+          "autor": "Agostinho",
+          "texto": "O que foi que Maria desfrutou enquanto estava escutando? O que estava comendo? O que estava bebendo? Você sabe? Vamos pedir ao Senhor, que mantém uma mesa tão esplêndida para seu próprio povo, vamos perguntar-lhe. \"Bem-aventurados\", diz, \"são os que têm fome e sede de justiça, porque serão saciados\". Foi a partir desta fonte, desde este armazém da justiça, que Maria, sentada aos pés do Senhor, estava em sua fome de receber umas migalhas. Você vê, o Senhor estava dando-lhe então, o mais que podia tomar. Mas quanto à totalidade do valor, ia dar à mesa do futuro, nem sequer os discípulos, nem sequer os mesmos apóstolos, foram capazes de tomar no momento quando lhes disse: \"Ainda tenho muitas coisas a dizer-vos, mas não são capazes de escutá-las agora\"... O que estava desfrutando Maria? O que estava comendo? Sou persistente neste ponto, porque o estou desfrutando também. Atrevo-me a dizer que estava comendo aquele a quem estava escutando. Isto é, se estava comendo a verdade, não disse a si mesmo: \"Eu sou a verdade\"? Que mais posso dizer? Estava sendo comido, porque era o pão. \"Eu\", disse, \"sou o pão que desceu do céu\". Este é o pão que nutre e nunca diminui.",
+          "fonte_1": "Sermão 179,5",
+          "fonte_2": "[ WSA 3 5: 301 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O corpo de Cristo necessita ouvintes e fazedores da Palavra",
+          "autor": "Ambrósio",
+          "texto": "A virtude não tem uma só forma. No exemplo de Marta e Maria, acrescenta-se a atarefada devoção de uma e a atenção piedosa da outra à Palavra de Deus, a qual, se está de acordo com a fé, prefere-se até mesmo às mesmas obras, como está escrito: \"Maria escolheu a boa parte, a qual não lhe será tirada\". Assim também nós esforçamos para ter o que ninguém pode tirar a nós, para que a audição não descuidada mas diligente possa conceder-se a nós. Até mesmo para as sementes da Palavra divina em si são suscetíveis de ser tiradas se foram semeadas no caminho. Deixe que o desejo da sabedoria nos conduza como fez Maria. É uma obra maior e mais perfeita. Não deixe que o serviço desvie o conhecimento da Palavra divina... Tampouco é Marta repreendida em sua boa ração, mas prefere-se Maria porque escolheu a melhor parte de si mesma, porque Jesus está cheio de muitas bênçãos e outorga muitos presentes. E portanto a mais sábia escolhe o que percebe como mais importante.",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,85-86",
+          "fonte_2": "[ EHG 265-66 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O amor de Marta mais fervente que o de Maria",
+          "autor": "Efrém, o Sírio",
+          "texto": "Maria veio e sentou-se a seus pés. Isto era como se estivesse sentada em terra firme aos pés daquele que havia perdoado à mulher pecadora seus pecados. Havia posto uma coroa a fim de entrar no reino dos primogênitos. Havia escolhido a melhor parte, o Benfeitor, o Messias mesmo. Isto nunca será tirado. O amor de Marta estava mais vivo que o de Maria, pois antes de que ele houvesse chegado ali, estava pronta para servi-lo. \"Não te importa que minha irmã me deixe servir sozinha?\" Quando chegou para ressuscitar Lázaro à vida, correu e saiu primeira.",
+          "fonte_1": "Comentário sobre o Diatessarão 8.15 de Taciano",
+          "fonte_2": "[ ECTD 153 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Escutar a Palavra é eterno",
+          "autor": "João Cassiano",
+          "texto": "Apegar-se sempre a Deus e às coisas de Deus, este deve ser nosso maior esforço, este deve ser o caminho que o coração segue sem vacilações. Qualquer desvio, por impressionante, deve ser considerado como secundário, de baixo grau e certamente perigoso. Marta e Maria proporcionam um paradigma mais belo das escrituras desta perspectiva e deste modo da atividade. No cuidado do Senhor e seus discípulos, Marta fez um serviço muito santo. Maria, contudo, tinha a intenção do ensinamento espiritual de Jesus, e ficou a seus pés, deu-lhe um beijo e ungiu com o óleo de sua boa fé... Ao dizer \"Maria escolheu a boa parte\", estava dizendo nada acerca de Marta, e de nenhuma maneira estava dando a aparência de criticá-la. Ainda assim, ao louvar Maria estava dizendo que a outra era um degrau abaixo dela. Novamente, dizendo \"não será tirada\", estava mostrando que o papel de Marta poderia ser tirado dela, já que o serviço do corpo só pode durar tanto como o ser humano está ali, enquanto o zelo de Maria nunca pode terminar.",
+          "fonte_1": "Conferência 1.8",
+          "fonte_2": "[CCM 42-43.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Maria canta aleluias",
+          "autor": "Agostinho",
+          "texto": "Atualmente aleluia é para nós o canto de um viajante, mas esta cansada viagem nos leva mais perto de casa e descanso onde, todas nossas atividades entretidas resolvidas, o único que restará será aleluia. Essa é a parte encantadora que Maria escolheu para si mesma, enquanto se sentava fazendo nada, mas aprendendo e louvando, enquanto sua irmã, Marta, estava ocupada com todo tipo de coisas. De fato, o que estava fazendo era necessário, mas não ia durar.",
+          "fonte_1": "Sermão 255,1-2",
+          "fonte_2": "[ WSA 3 7: 158 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
