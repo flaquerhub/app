@@ -1,0 +1,132 @@
+{
+  "livro": "Lucas",
+  "capitulo": 22,
+  "versiculo_inicial": 15,
+  "versiculo_final": 23,
+  "blocos": [
+    {
+      "referencia": "Lucas 22:15-18",
+      "versiculo": 15,
+      "tema": "A perspectiva escatológica",
+      "comentarios": [
+        {
+          "titulo": "A paixão de Jesus seguirá a Páscoa",
+          "autor": "João Crisóstomo",
+          "texto": "Uma vez mais, em outro lugar Cristo disse: \"Desejei enormemente comer esta Páscoa convosco\". Por que então foi que disse \"esta Páscoa\" apesar de que em outras ocasiões havia observado esta festa com eles? Por que então? Porque a cruz seguiria esta Páscoa. E outra vez disse: \"Pai, glorifica a teu Filho para que teu Filho te glorifique a ti\". Por certo, em muitos lugares, o encontramos predizendo a paixão, desejando que aconteça, e dizendo que esta era a razão pela qual havia entrado no mundo.",
+          "fonte_1": "Contra os anomeus 7,46",
+          "fonte_2": "[FC 72: 203-4.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O Reino vem na ressurreição de Jesus",
+          "autor": "Efrém, o Sírio",
+          "texto": "Ele disse: \"Não beberei mais deste fruto da vide até que o reino de meu Pai\", para demonstrar que ele previa sua iminente partida deles. Disse: \"Até que o reino de meu Pai\", isto é, até sua ressurreição. Simão Pedro se revela nos Atos dos Apóstolos: \"Depois de sua ressurreição, durante um período de quarenta dias, comeu com ele e bebeu, neste primeiro dia da semana\". Isto está de acordo com o que havia dito: \"Não vão à morte sem antes haver visto o reino de Deus\". E depois de seis dias ele se levou a cabo.",
+          "fonte_1": "Comentário sobre Diatessarão 19,5 de Taciano",
+          "fonte_2": "[ ECTD 285 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O Reino vem na pregação e na Eucaristia da Igreja",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Ele diz: \"Já não me aproximarei de uma tal Páscoa como esta\", que consistiu na alimentação típica. Um cordeiro do rebanho morreu ao ser o tipo do verdadeiro Cordeiro até que se cumpra no reino de Deus, isto é, até que tenha aparecido o momento em que se prega o reino dos céus. Isto se cumpre em nós, que honramos o culto que é superior à lei, mesmo a verdadeira Páscoa. Um cordeiro do rebanho não santifica aos que estão em Cristo. Cristo nos santifica. Fez-se um sacrifício santo para nós, pelo oferecimento de oferendas sem sangue e a entrega mística de graças, na qual fomos abençoados e animados. Converteu-se para nós o pão vivo que desceu do céu, e dá vida ao mundo.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 141",
+          "fonte_2": "[ CGSL 566-67 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Jesus vai beber uma taça nova",
+          "autor": "Ireneu",
+          "texto": "Quando chegou a sua paixão, quis declarar a Abraão e aos que com ele a boa notícia da abertura da herança. Depois deu graças enquanto segurava a taça e logo beberam dela ... prometeu que voltaria a beber do fruto da vide com seus discípulos. Assim Cristo mostrou a herança da terra, na qual o novo produto da vide se bebe, e a ressurreição física de seus discípulos. A nova carne que se levanta de novo é a mesma que recebeu a nova taça. Ele não pode ser entendido como bebendo do fruto da vide, quando assim se estabeleça nas alturas com os seus, em algum lugar acima dos céus. Os que bebem não são somente os espíritos, porque pertence à carne e ao espírito não receber a bebida da vide.",
+          "fonte_1": "Contra as Heresias 5.33.1",
+          "fonte_2": "[LCC 1: 393 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Bênçãos espirituais e físicas de sua mesa",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Cristo está também dentro de nós de outra maneira através de nossa participação no sacrifício de derramamento de sangue, que celebramos nas igrejas. Recebemos dele o padrão salvador do rito, como o bendito evangelista nos mostra claramente na passagem que se acaba de ler. Diz-nos que Jesus tomou uma taça, deu graças e disse: \"Tomai isto, e o dividam entre si\". Seu dar graças significava seu falar a Deus o Pai na forma da oração. Cristo significou para nós que ele, por assim dizer, compartilha e participa na boa vontade do Pai em nos conceder a bênção que dá a vida que nos foi dada então. Toda graça e todo dom perfeito vem a nós desde o Pai pelo Filho no Espírito Santo. Este ato, então, era um padrão útil para nós da oração que se deve oferecer sempre que a graça do sacrifício místico e doador de vida está prestes a ser estendido diante dele por nós. Consequentemente, estamos acostumados a fazer isto. Em primeiro lugar, oferecendo nossas ações de graças e unindo-nos em nossos louvores a Deus o Pai, o Filho e o Espírito Santo, nos aproximamos das mesas sagradas. Cremos que recebemos a vida e a bênção espiritual e fisicamente. Recebemos em nós a Palavra do Pai, que por nós se fez homem e que é a Vida e o doador da vida.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 142",
+          "fonte_2": "[ CGSL 568 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A obediência do Senhor até a morte",
+          "autor": "Basílio Magno",
+          "texto": "Devemos comer o corpo e beber o sangue do Senhor como uma comemoração da obediência do Senhor até a morte. Os que vivem, já não vivam para si, mas para aquele que morreu e ressuscitou por eles de novo.",
+          "fonte_1": "A Moral 21",
+          "fonte_2": "[FC 9: 102 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 22:19",
+      "versiculo": 19,
+      "tema": "A fração do pão e as palavras da instituição",
+      "comentarios": [
+        {
+          "titulo": "A Palavra faz o pão Corpo e o vinho Sangue",
+          "autor": "João Damasceno",
+          "texto": "Receber a comunhão dos mistérios sem mancha de Cristo, crendo na realidade que são o corpo e o sangue de Cristo nosso Deus, que deu aos fiéis para o perdão dos pecados. Na mesma noite em que foi entregue, ordenou um novo pacto com seus santos discípulos e apóstolos e através deles por todos os que haveriam de crer nele. Ele disse: \"Tomai, comei, isto é meu corpo, que por vós é partido, para o perdão dos pecados\". Da mesma maneira também tomou a taça e a deu dizendo: \"Bebei todos isto. Este é meu sangue do novo pacto, que é derramado por vós para o perdão dos pecados. Fazei isto em memória de mim\". Ele, a Palavra de Deus, é rápido, potente e trabalhando todas as coisas por sua força. Ele faz e transforma o pão e o vinho do sacrifício através de sua operação divina em seu próprio corpo e sangue, pela visita do Espírito Santo, pela santificação e a iluminação dos que participam nela com impaciência.",
+          "fonte_1": "Barlaão e Josafá 19,165-66",
+          "fonte_2": "[LCL 34: 279, 281 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Comemos a Palavra do Pai",
+          "autor": "Atanásio",
+          "texto": "Israel comeu a carne de cordeiro mudo para completar a Páscoa. Uma vez feito isto, ungiram seus umbrais com o sangue e se riram do destruidor. Comemos da Palavra do Pai, o Filho, nosso Salvador. Temos os umbrais de nossos corações selados com o sangue da nova aliança.",
+          "fonte_1": "Carta Festal 4",
+          "fonte_2": "[. ARL 82 *]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 22:20",
+      "versiculo": 20,
+      "tema": "A Taça do Novo Testamento no sangue de Jesus",
+      "comentarios": [
+        {
+          "titulo": "Temos vida em nós",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Mediante a união da carne que estava sujeita à morte a si mesmo, sendo a Palavra de Deus e a vida, conduziu a corrupção para fora dela. Cristo chegou a ser a fonte da vida. O corpo daquele que é a vida deve ser isto. Não há dúvida do que disse, mas antes aceita a palavra de fé, tendo provas reunidas a partir de alguns exemplos. Quando se coloca um pedaço de pão em vinho, azeite ou qualquer outro líquido, vês que se carrega com a qualidade daquela coisa em particular. Quando o ferro se põe em contato com o fogo, enche-se de sua atividade. Embora seja por natureza ferro, exerce o poder do fogo. O doador de vida, Palavra de Deus, depois de haver unido a si mesmo sua própria carne de uma maneira conhecida em si, igualmente a dotou com o poder de dar a vida. ... Quando comemos a carne santa de Cristo, o Salvador de todos nós, e bebemos seu precioso sangue, temos vida em nós. Estamos feitos um com ele, permanecemos nele, e o possuímos em nós.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 142",
+          "fonte_2": "[ CGSL 570 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A Carne e o Sangue de Cristo na Eucaristia que dá vida",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Foi adequado para ele estar em nós por Deus pelo Espírito Santo. Também era adequado que se misturasse com o corpo de sua carne santa e precioso sangue, que possuímos como uma Eucaristia que dá a vida, em forma de pão e vinho. Deus temia que ao ver a carne e o sangue colocados nas mesas sagradas de nossas igrejas nos aterrorizássemos. Humilhando-se a nossas enfermidades, Deus infunde nas coisas que nos dá o poder da vida. Transforma-as na eficácia de sua carne, para que possamos tê-las para uma participação doadora de vida, para que o corpo da vida deste modo possa encontrar-se em nós como uma semente que produz vida. Não há dúvida de que isto é certo. Cristo diz claramente: \"Este é meu corpo. Este é meu sangue\". Na fé, recebe a palavra do Salvador. Já que é a verdade, não pode mentir. Honra-o. O sábio João diz: \"O que recebe seu testemunho marcou com seu selo que Deus é veraz. Porque o que Deus enviou fala as palavras de Deus\". As palavras de Deus, por certo, são verdadeiras. De nenhuma maneira podem ser falsas. Embora não possamos entender como Deus faz isso, todavia, ele mesmo conhece o caminho de suas obras.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 142",
+          "fonte_2": "[ CGSL 571.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 22:21-23",
+      "versiculo": 21,
+      "tema": "Uma palavra sobre o Traidor",
+      "comentarios": [
+        {
+          "titulo": "A comunhão profana de Judas",
+          "autor": "Agostinho",
+          "texto": "Alguns dos que leem sem cuidado perguntam se Judas recebeu o corpo de Cristo. Entendam que o Senhor já havia distribuído o sacramento de seu corpo e sangue a todos eles quando o próprio Judas também estava ali, como santo Lucas nos diz muito claramente. Depois disso veio este evento no qual, de acordo com o relato de João, o Senhor expõe mais abertamente seu traidor através do bocado de cruzamento e oferecido, talvez significando através da imersão do pão a pretensão do homem. Nem tudo que se submerge se lava, mas alguns se submergem para ser tingidos. Se a imersão aqui significa algo bom, então a condenação seguiu corretamente ao ingrato por este bem. Quando o pão entrou no estômago, o inimigo entrou na mente do homem ingrato. Judas não estava possuído pelo Senhor, mas pelo diabo. O efeito total de um mal tão grande que já concebido no coração ainda esperava conclusão; a intenção de fazê-lo condenável já havia sido efetuada.",
+          "fonte_1": "Tratados sobre o Evangelho de João 62,3-4",
+          "fonte_2": "[FC 90: 38-39 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Judas separado dos Apóstolos",
+          "autor": "Efrém, o Sírio",
+          "texto": "É certo que quando o Senhor deu o pão a seus discípulos, lhes deu o mistério de seu corpo. Também há que crer então que quando deu o pão a seu assassino, deu-o a ele como o mistério de seu corpo assassinado. Molhou-o para revelar a participação total de Judas em sua morte, pois seu corpo estava destinado a ser submergido em seu sangue. Também pode havê-lo molhado para dar o testamento com ele. Umedeceu-o e logo lho deu. Umedeceu aquele em primeiro lugar porque havia preparado para a prova que ia seguir. A cobiça de Judas julgou-o e separou-o dos membros perfeitos do Senhor, como o Doador da vida demonstrou em seu suave ensinamento. Judas não era um membro do corpo de sua igreja. Não era mais que o pó que se cola aos pés dos discípulos. Na noite quando o Senhor o julgou e o separa dos demais, lavou a lama dos pés para ensiná-los. Ensinou-lhes que lavava Judas dos pés dos discípulos com a água, como o adubo adequado para a gravação. Judas foi considerado como os pés do corpo, já que foi o último dos doze apóstolos. Do mesmo modo, o Senhor separou Judas dos apóstolos por meio da água quando submerge o pão na água e lho deu. Judas não era digno do pão que, junto com o vinho, deu-se aos Doze. Não teria sido permissível para o mesmo que ia entregar o Senhor à morte receber o que o salvaria da morte.",
+          "fonte_1": "Comentário sobre Diatessarão 19,3 de Taciano",
+          "fonte_2": "[ ECTD 284 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
