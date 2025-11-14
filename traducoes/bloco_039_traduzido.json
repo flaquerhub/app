@@ -1,0 +1,156 @@
+{
+  "livro": "Lucas",
+  "capitulo": 10,
+  "versiculo_inicial": 4,
+  "versiculo_final": 20,
+  "blocos": [
+    {
+      "referencia": "Lucas 10:4-12",
+      "versiculo": 4,
+      "tema": "As instruções para a missão de pregar o reino",
+      "comentarios": [
+        {
+          "titulo": "Os discípulos hão de ser dependentes do Senhor da colheita",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Quando a pregação das pessoas em toda parte da palavra que havia dito e chamando os habitantes de toda a terra para a salvação, obriga-os a viajar ao redor sem carteira, bolsa ou sapatos. São viajar rapidamente de uma cidade a outra e de um lugar a lugar. Que ninguém diga que o objeto de seu ensinamento era fazer que os santos apóstolos negassem o uso dos artigos ordinários de equipamentos. Que bom ou que dano haveria fazê-las ter os sapatos nos pés ou ir sem eles? Por este comando, faz desejar que aprender e praticar que devem pôr todos os pensamentos de seu meio de vida nele. Devem chamar à mente o santo que disse: \"Põe tua confiança no Senhor, e ele te alimentará\". Ele dá o que é necessário para a vida dos santos.",
+          "fonte_1": "Comentário de Lucas, Homilia 62",
+          "fonte_2": "[ CGSL 266-67 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Anunciadores, não comerciantes",
+          "autor": "Efrém, o Sírio",
+          "texto": "Enviou-os de dois em dois, à sua semelhança. Enviou para pregar sem um salário, como havia feito... \"Eis que vos envio a outro como cordeiros no meio de lobos\", para mostrar que enquanto o pastor estava com eles não seriam prejudicados. Para encorajá-los, disse: \"Aquele que vos recebe, a mim me recebe\"... Proibiu-lhes tomar o dinheiro por temor a que se considerassem empresários e não anunciadores.",
+          "fonte_1": "Comentário sobre o Diatessarão 8.1a de Taciano, 1c",
+          "fonte_2": "[ ECTD 145-46 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Uma saudação de paz se deve dar a todos",
+          "autor": "Agostinho",
+          "texto": "Nosso Senhor disse a seus discípulos: \"Em qualquer casa que entreis, dizei primeiro: 'Paz a esta casa'. E se um filho de paz, vossa paz repousará sobre ele; mas, se não, volverá a vós\"... Uma vez que não sabemos quem é um filho de paz, é nossa parte não deixar ninguém fora, não estabelecer ninguém a um lado, mas com o desejo de que todos aqueles a quem pregamos esta paz se salvem. Não havemos de temer que perdamos nossa paz se aos que pregamos não é um filho de paz, e nós ignoramos o fato. Nossa paz voltará a nós. Isso significa que nossa pregação nos beneficiará, não o beneficiará. Se a paz que pregamos repousa sobre ele, beneficiará tanto a ele como a nós.",
+          "fonte_1": "A admoestação e graça 15.46",
+          "fonte_2": "[FC 2: 301-2 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Para que não saudar exercício de suas funções apostólicas obstruído",
+          "autor": "Ambrósio",
+          "texto": "Considere não só que \"não saudeis homem algum\", mas \"pelo caminho\" não se acrescenta sem cuidado. Quando Eliseu enviou seu criado para pôr seu cajado sobre o corpo do menino morto, também lhe mandou não saudar a qualquer homem que encontrasse. Ordenou-lhe apressar-se a ir a fim de realizar o encargo da proclamação da ressurreição, para que não se apartasse da obrigação que lhe impunham pela conversa com alguém no caminho. O zelo de saudar não se lhe tira aqui, mas se elimina um obstáculo para a prática da piedade. Quando se dão ordens divinas, as obrigações humanas são entregues por um tempo. A saudação está muito bem, mas o exercício das funções a Deus é mais fino, já que é mais apropriado. Impedimento destes direitos frequentemente trouxe delitos. Está proibido até mesmo atos honoráveis, por temor a que a graça da cerimônia engane e obstaculize o ministério da tarefa, o atraso na qual é pecado.",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,63",
+          "fonte_2": "[ EHG 258-59 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Uma mostra da vingança para o impenitente",
+          "autor": "Efrém, o Sírio",
+          "texto": "\"Sacudi o pó de vossos pés\" mostra que vai requerer o pagamento aos que recebem os discípulos mal. Os discípulos lançam sobre estas pessoas esse mesmo pó que se aderiu aos mesmos desde o caminho. Voltarão de novo neles, de maneira que estes possam aprender que os que passam através de seus caminhos voltarão por eles. Posto que estes receberam o pó dos justos, vão merecer a vingança dos justos, se não se arrependem. Só o pó deles, não sua lama contaminada. Será mais fácil para Sodoma, porque os anjos que foram ali não realizaram um sinal em Sodoma, mas fizeram Sodoma mesmo um sinal para a criação... Trasladar-se a outra cidade longe de qualquer cidade que não vos recebeu. Se vos persigam naquela, fugi a outra. O Senhor não estendeu esta palavra para todos, senão só a seus discípulos, já que foi o começo da nova pregação, e estas pessoas eram poucas.",
+          "fonte_1": "Comentário sobre o Diatessarão 8,6-7 de Taciano",
+          "fonte_2": "[ ECTD 148-49 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 10:13-15",
+      "versiculo": 13,
+      "tema": "Males a Corazim e Betsaida e Cafarnaum",
+      "comentarios": [
+        {
+          "titulo": "A rejeição dos setenta",
+          "autor": "Ambrósio",
+          "texto": "Ensina também que os que julgaram que o Evangelho não deve seguir devem ser submetidos a um castigo mais severo que os que pensavam que a lei devesse ser dissolvida.",
+          "fonte_1": "Exposição do Evangelho de Lucas 7,65",
+          "fonte_2": "[ EHG 259 *.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 10:16",
+      "versiculo": 16,
+      "tema": "O princípio cristológico de representação",
+      "comentarios": [
+        {
+          "titulo": "Cristo encomenda discípulos com a grande honra de falar suas palavras",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Considere a grande autoridade que deu aos apóstolos santos, a forma pela qual os declarou dignos de elogio, e como os decorou com as mais altas honras... \"Aquele que vos ouve\", diz, \"a mim me escuta, e aquele que vos rejeita, a mim me rejeita; e aquele que me rejeita, rejeita ao que me enviou\". Ó que grande honra! Que incomparável dignidade! Ó que é um presente digno de Deus! Ainda que homens, filhos da terra, veste-os com uma glória divina. Confia suas palavras a eles para que os que resistem a qualquer coisa ou de risco para rejeitá-los possam ser condenados. Quando se rejeitam, assegura-lhes que sofre isto. Por outro lado, demonstra que a culpa deste mal, já que se cometem contra ele, eleva-se até Deus Pai. Veja com os olhos da mente que vasta altura que aumenta o pecado cometido pelos homens na rejeição dos santos! Que muro se constrói ao redor deles! Que grande segurança discorre para eles! Torna-os como deve ser temidos e em todos os sentidos proporciona claramente por seu ser não lesionado.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 63",
+          "fonte_2": "[ CGSL 270 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Cristo fala através dos discípulos",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Cristo dá aos amantes da instrução a segurança de que o que se diz com respeito a ele pelos santos apóstolos ou evangelistas vai ser recebido necessariamente, sem dúvida alguma, e ser coroado com as palavras de verdade. Aquele que os escuta, escuta a Cristo. Pois o bem-aventurado Paulo também disse: \"Você deseja uma prova de que fala Cristo em mim\". Cristo mesmo em alguma parte também disse aos discípulos santos: \"Porque não sois vós os que falais, senão o Espírito de vosso Pai que fala em vós\". Cristo fala neles pelo Espírito consubstancial. Se bem é verdade, e claramente é que não falam de Cristo, como podem errar? Afirma que aquele que não os ouve, não escuta a Cristo, e que aquele que os rejeita rejeita a Cristo, e com ele o Pai.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 63",
+          "fonte_2": "[ CGSL 270 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Falar em nome de Cristo",
+          "autor": "Ireneu",
+          "texto": "O Senhor de todos deu o poder do Evangelho a seus apóstolos. Por eles, também aprendemos a verdade, isto é, o ensinamento do Filho de Deus. O Senhor lhes disse: \"Quem vos escuta a mim me escuta, e aquele que vos despreza me despreza, e crê no que me enviou\".",
+          "fonte_1": "Contra as heresias 3, Prefácio",
+          "fonte_2": "[LCC 1: 369 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 10:17-20",
+      "versiculo": 17,
+      "tema": "A alegria dos discípulos pelo triunfo ante os demônios",
+      "comentarios": [
+        {
+          "titulo": "Confirma o poder da Palavra que pregam",
+          "autor": "Cirilo de Alexandria",
+          "texto": "De acordo com a declaração de Cristo, a colheita era muita, mas os obreiros eram poucos. Além dos primeiros eleitos, designou outros setenta e enviou-os a cada povoado e cidade de Judeia diante dele para ser seus precursores e pregar as coisas que pertenciam a ele. A autoridade que levaram para repreender os maus espíritos e o poder de esmagar Satanás não lhes foi dado para que pudessem estimar com admiração. Foi-lhes dado para que Cristo seja glorificado por meio deles. Aqueles a quem ensinavam acreditariam que era por natureza Deus e o Filho de Deus. Foi investido com tão grande glória e supremacia e força, como para ser ainda capaz de outorgar a outros o poder de pisotear Satanás sob seus pés.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 64",
+          "fonte_2": "[ CGSL 273-74 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Satanás cai como um raio do céu",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Qual é a resposta de Cristo? \"Eu via Satanás cair como um raio do céu\". Isto é, \"Estou consciente disto, porque ao vos propordes nesta viagem por minha vontade, vencestes Satanás. Vi-o cair como um raio do céu\". Isto significa que havia sido lançado desde o alto da terra, de orgulho desmedido à humilhação, de glória no desprezo, de grande poder de pronunciar debilidade. O dito é verdade, já que antes da vinda do Salvador, possuía o mundo. Tudo estava sujeito a ele, e não havia ninguém capaz de escapar da armadilha de sua força avassaladora. Todo o mundo o adorava. Tinha templos e altares de sacrifício em todas as partes e tinha uma inumerável multidão de fiéis. Uma vez que a Palavra unigênita de Deus desceu do céu, caiu como um raio.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 64",
+          "fonte_2": "[ CGSL 274 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A vitória da cruz esmaga Satanás",
+          "autor": "Efrém, o Sírio",
+          "texto": "\"Eu estava olhando Satanás, que caiu como um raio desde o céu\". Não era que em realidade estava no céu. Não estava neles, quando disse: \"Vou pôr meu trono sobre as estrelas\", mas caiu de sua grandeza e de seu domínio. \"Estava olhando Satanás, que caiu como um raio desde o céu\". Não caiu do céu, porque um raio não cai do céu, já que as nuvens o criam. Por que então foi o que disse \"dos céus\"? Isto se deveu a que era como se fosse desde o céu, como se um raio que vem logo. Em um segundo, Satanás caiu abaixo da vitória da cruz. As pessoas comuns eram ungidas e enviadas por razão de sua missão e tiveram um grande êxito em um segundo, através de milagres de cura dos que sofrem, a enfermidade e os maus espíritos. Afirmou-se que Satanás caiu repentinamente de seu domínio, como um raio das nuvens. Do mesmo modo que o raio se apaga e não volta a seu lugar, também Satanás caiu e não voltou a ter o controle sobre seu domínio. \"Eis que estou dando domínio\".",
+          "fonte_1": "Comentário sobre o Diatessarão 10.13 de Taciano",
+          "fonte_2": "[ ECTD 172 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Cristo sana-nos através da cruz",
+          "autor": "Máximo de Turim",
+          "texto": "Desde que possuímos o Senhor Jesus que nos libertou de seu sofrimento, deixemo-nos sempre buscá-lo e esperemos pela medicina para as feridas de seu sinal. Isto é, se talvez o veneno da cobiça se estende em nós, devemos olhar a ele, e ele nos curará. Se o desejo malicioso do escorpião nos pica, devemos rogar-lhe, e ele nos curará. Se as picadas dos pensamentos mundanos nos rasgam, devemos pedir-lhe, e viveremos. Estas são as serpentes espirituais de nossas almas. O Senhor foi crucificado a fim de esmagá-las. Diz-lhes acerca: \"Ireis pisar sobre serpentes e escorpiões, e não vos fará nenhum dano\".",
+          "fonte_1": "Sermão 37,5",
+          "fonte_2": "[ACW 50: 92 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O batismo de Cristo dá ao batizado dignidade",
+          "autor": "Cirilo de Jerusalém",
+          "texto": "Ele [Jesus] não foi batizado para receber o perdão dos pecados. Foi sem pecado. Sendo sem pecado, foi batizado para que pudesse dar a graça e a dignidade das pessoas que recebem o sacramento. \"Uma vez que os filhos participaram de carne e sangue, assim de igual maneira compartilhou nestes\", para que, compartilhando sua vida encarnada, pudessem também compartilhar sua graça divina. Jesus foi batizado para que por sua vez também nós, feitos aqui partícipes com ele, pudéssemos receber não só a salvação, mas também a dignidade.",
+          "fonte_1": "Leituras Catequéticas 3.11",
+          "fonte_2": "[FC 61: 115 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Os discípulos não devem regozijar-se em honras apostólicas",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Regozijar-se só no fato de que eram capazes de fazer milagres e esmagar os rebanhos dos demônios foi possivelmente poderia produzir neles o desejo de arrogância. O vizinho e relativo desta paixão constante é o orgulho. Mais útil, o Salvador de todos repreende a primeira jactância e rapidamente corta a distância da raiz que surgiu neles o amor vergonhoso de glória. Imitava bons agricultores que, quando veem uma espinha que salte em seus parques ou jardins, rasgam imediatamente com a pá da picareta antes que penetre sua raiz profunda.",
+          "fonte_1": "Comentário sobre Lucas, Homilia 64",
+          "fonte_2": "[ CGSL 275-76 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
