@@ -1,0 +1,134 @@
+{
+  "livro": "Lucas",
+  "capitulo": 3,
+  "versiculo_inicial": 1,
+  "versiculo_final": 6,
+  "blocos": [
+    {
+      "referencia": "Lucas 3:1-2",
+      "versiculo": 1,
+      "tema": "O contexto histórico do ministério de João",
+      "comentarios": [
+        {
+          "titulo": "A reunião dos gentios e a dispersão dos Judeus",
+          "autor": "Gregório Magno",
+          "texto": "Lucas recorda aos governantes da República romana e os governantes de Judeia para indicar o momento em que o precursor de nosso Redentor recebeu sua missão de pregar... Posto que João vinha a pregar que havia de redimir parte de Judeia e muitos dentre os gentios, o período de sua pregação se indica nomeando governador dos gentios e os dos Judeus. Mas porque os gentios deviam ser reunidos e Judeia dispersos por causa do erro de sua falta de fé, esta descrição de governo terreno também nos mostra que na república romana presidiu uma pessoa.",
+          "fonte_1": "Quarenta Homilias sobre o Evangelho 6",
+          "fonte_2": "[CS 123: 35-36 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Preparando o cenário para a história da salvação",
+          "autor": "Gregório Magno",
+          "texto": "É evidente, então, que Judeia, que se encontrava dividida entre tantos reis, havia chegado ao final de sua soberania. Também era apropriado indicar não só em virtude do qual os reis, senão também em virtude do qual os sacerdotes do alto isto ocorreu. Posto que João Batista pregou que era ao mesmo tempo rei e sacerdote, o evangelista Lucas indica o tempo de sua pregação, fazendo referência tanto à realeza quanto ao alto sacerdócio.",
+          "fonte_1": "Quarenta Homilias sobre o Evangelho 6",
+          "fonte_2": "[CS 123: 36.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A Palavra recolhe a Igreja no deserto",
+          "autor": "Ambrósio",
+          "texto": "O Filho de Deus, que há de reunir a igreja, primeiro funciona num servidor. Assim, São Lucas diz acertadamente que a Palavra do Senhor veio a João, filho de Zacarias, no deserto, pelo que a igreja não começaria a partir de um homem, senão da Palavra. Pois ela é um deserto, porque os filhos da depravação superam em número aos dela, ainda que ela tenha um marido. Então se diz a ela: \"Canta, oh estéril\", e, \"Prorrompei juntos em canto, solidões\", porque o deserto ainda não havia sido cultivado por qualquer trabalho de uma bandada das pessoas, nem tinha essas árvores que poderiam dar frutos mostram a coroa de seus méritos. O que disse: \"Eu sou como uma oliveira verde na casa do Senhor\", ainda não havia chegado, nem tinha essa Videira celestial dado seus frutos com seus brotos de palavras no ramo treinado de nosso povo. Assim a Palavra veio para que a terra desolada fosse fruto por nós. A Palavra veio, e a voz seguiu, pois a Palavra primeiro trabalha dentro antes que a voz siga. Daí que David também diz, \"eu acreditei, e logo falei\".",
+          "fonte_1": "Exposição do Evangelho de Lucas 2,67",
+          "fonte_2": "[EHG 63 **.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Lucas 3:3-6",
+      "versiculo": 3,
+      "tema": "Um resumo da pregação de João",
+      "comentarios": [
+        {
+          "titulo": "Jordão significa \"descenso\"",
+          "autor": "Orígenes",
+          "texto": "\"Jordão\" significa \"descendente\", é o rio \"descendente\" de Deus, um que corre com uma força vigorosa. É o Senhor nosso Salvador. Nele somos batizados com o verdadeiro, a poupança de água. O batismo também se predica \"para a remissão dos pecados\".",
+          "fonte_1": "Homilias sobre o Evangelho de Lucas 21.4",
+          "fonte_2": "[FC 94: 89 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O perdão vem do batismo de Cristo",
+          "autor": "Gregório Magno",
+          "texto": "\"E ele foi por toda a região do Jordão proclamando um batismo de conversão para o perdão dos pecados\". É evidente para todos os que leem que João não só pregava o batismo de arrependimento, senão também o concedeu de alguma maneira. No entanto, não foi capaz de outorgar um batismo para o perdão dos pecados. O perdão dos pecados nos concede somente no batismo de Cristo. Devemos ter em conta as palavras \"pregando um batismo de conversão para o perdão dos pecados\". Ele pregou um batismo que tiraria os pecados, mas não foi capaz de dar ele mesmo. Por sua palavra da pregação foi o precursor da Palavra encarnada do Pai. Por seu batismo, que de por si não podia tirar o pecado, ia ser o precursor daquele batismo de arrependimento pelo qual se tomam pecados. Suas palavras prepararam o caminho para a presença real do Redentor e sua pregação do batismo era um presságio da verdade.",
+          "fonte_1": "Quarenta Homilias sobre o Evangelho 6",
+          "fonte_2": "[CS 123: 36-37 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A fé em Cristo a forma mais alta de arrependimento",
+          "autor": "Cirilo de Alexandria",
+          "texto": "Além disso, o fruto do arrependimento é, no mais alto grau, a fé em Cristo. A seu lado está o modo evangélico da vida, e em termos gerais as obras de justiça em contraposição ao pecado, que o penitente deve sair como frutos dignos de arrependimento.",
+          "fonte_1": "Comentário de Lucas, Homilia 7",
+          "fonte_2": "[CGSL 71.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Arrepender-se para preparar-se para o batismo de João",
+          "autor": "Orígenes",
+          "texto": "O precursor de Cristo, a voz de um que clama no deserto - prega no deserto da alma que não conheceu a paz. Não só então, mas inclusive agora, uma lâmpada brilhante e a queima primeiro vem e prega o batismo de conversão para o perdão dos pecados. Logo segue a luz verdadeira, como o próprio João disse: \"Ele deve crescer, e eu diminuir\". A palavra veio no deserto e se estendeu em todo o campo ao redor do Jordão.",
+          "fonte_1": "Homilias sobre o Evangelho de Lucas 21.3",
+          "fonte_2": "[FC 94: 89 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Para preparar o caminho é chamar a frutos do arrependimento",
+          "autor": "João Crisóstomo",
+          "texto": "Assim, o profeta escreveu que há de vir dizendo: \"Preparai o caminho do Senhor, endireitai suas sendas\". E João mesmo disse quando chegou, \"produzi frutos dignos de arrependimento\", que corresponde com \"preparar o caminho do Senhor\". Veja que tanto pelas palavras do profeta quanto por sua própria pregação, uma coisa se manifesta só. João estava por vir, fazendo um caminho e preparando de antemão, não outorgando o dom, que foi a remissão, mas pedindo a tempo as almas dos que haviam de receber o Deus de todos.",
+          "fonte_1": "Homilias sobre o Evangelho de Mateus 10.3",
+          "fonte_2": "[NPNF 1 10: 63 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Para prepará-la, preparando-se para receber a Cristo",
+          "autor": "Cirilo de Alexandria",
+          "texto": "João, sendo eleito para o apostolado, também foi o último dos santos profetas. Por esta razão, já que o Senhor não chegou todavia, diz, \"Preparar o caminho do Senhor\". Qual é o significado de \"preparar o caminho do Senhor\"? Significa, Fazer pronto para a recepção de tudo o que Cristo poderia fazer. Retire seus corações da sombra da lei, descarte figuras vagas e já não pense perversamente. Faça os caminhos de nosso Deus retos. Pois cada caminho que conduz a um bom é reto e liso e fácil, mas o que está torcido conduz à maldade os que andam com ele.",
+          "fonte_1": "Comentário de Lucas, Homilia 6",
+          "fonte_2": "[CGSL 69 **.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A maneira em que João se prepara está no coração",
+          "autor": "Orígenes",
+          "texto": "\"Preparai o caminho do Senhor\". Por que caminho temos de preparar para o Senhor? Sem dúvida, não uma forma material. Pode a Palavra de Deus ir numa jornada? Não se deve preparar o caminho para o Senhor dentro? Não devem caminhos retos já nível se construírem em nossos corações? Este é o caminho pelo qual entrou a Palavra de Deus. Palavra que habita nos espaços do coração humano.",
+          "fonte_1": "Homilias sobre o Evangelho de Lucas 21.5",
+          "fonte_2": "[FC 94: 90 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Isaías anuncia um retrocesso na natureza para assinalar a vinda da salvação",
+          "autor": "João Crisóstomo",
+          "texto": "Vê-se como o profeta antecipa tudo por suas palavras, o concurso das pessoas? Portanto, quando diz: \"Todo vale será preenchido, e todo monte e colina será rebaixado, e os caminhos ásperos aplanados\", está significando a exaltação dos humildes, a humilhação da livre vontade, a dureza da lei mudou na facilidade de fé. Pois já não se esforça e trabalha, diz ele, mas a graça e o perdão dos pecados, proporcionando o caminho à salvação. A continuação indica a causa destas coisas, dizendo: \"Toda carne verá a salvação de Deus\". Já não Judeus e prosélitos somente, senão também toda a terra e o mar e toda a raça dos homens se salvarão. Por \"as coisas torcidas\" significou nossa vida corrupta, toda publicanos, prostitutas, ladrões e magos, a todos os que havendo sido pervertidos antes, depois caminham no caminho correto. Do mesmo modo como Jesus mesmo disse: \"Os publicanos e as meretrizes vão adiante ao reino de Deus antes\", porque acreditaram.",
+          "fonte_1": "Homilias sobre o Evangelho de Mateus 10.3",
+          "fonte_2": "[NPNF 1 10: 64 *.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Não há barreiras à vinda da verdade",
+          "autor": "Prudêncio",
+          "texto": "Como mensageiro de Deus, que estava a ponto de chegar, / Observou fielmente esta lei, construindo assim, / Que cada colina baixa poderia chegar a ser e formas difíceis planas, / Não seja que quando a verdade devesse deslizar desde o céu à terra / Então se encontraria uma barreira a seu enfoque rápido.",
+          "fonte_1": "Hinos para cada dia 7,51-55",
+          "fonte_2": "[FC 43:48.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O trabalho de preparação de João está em curso",
+          "autor": "Orígenes",
+          "texto": "Creio que o mistério de João todavia se está logrando no mundo de hoje. Se alguém vai crer em Cristo Jesus, o espírito e o poder de João primeiro chegam a sua alma e \"preparar um povo perfeito para o Senhor\". Faz que as formas em lugares ásperos do coração suaves e endireita seus caminhos.",
+          "fonte_1": "Homilias sobre o Evangelho de Lucas 4.6",
+          "fonte_2": "[FC 94:19.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A salvação de Deus é o Cristo de Deus",
+          "autor": "Agostinho",
+          "texto": "Considere o texto \"E todos verão a salvação de Deus\". Não há nenhuma dificuldade em absoluto em tomar isto no sentido \"E todos verão o Cristo de Deus\". Afinal de contas, Cristo foi visto no corpo e se verá no corpo quando venha a julgar os vivos e os mortos. Escritura tem muitos textos que mostram que ele é a \"salvação de Deus\", em particular as palavras do venerável ancião, Simeão, que tomou ao menino em seus braços e disse: \"Agora deixa que teu servo vá em paz, Senhor, segundo tua palavra, porque meus olhos viram teu Salvador\".",
+          "fonte_1": "Cidade de Deus 22,29",
+          "fonte_2": "[FC 24: 501].",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
