@@ -1,0 +1,194 @@
+{
+  "livro": "Mateus",
+  "capitulo": 3,
+  "versiculo_inicial": 1,
+  "versiculo_final": 6,
+  "blocos": [
+    {
+      "referencia": "Mateus 3:1-6",
+      "versiculo": 1,
+      "tema": "João Batista prepara o caminho",
+      "comentarios": [
+        {
+          "titulo": "Informação geral",
+          "autor": "Diversos Padres",
+          "texto": "Tanto os profetas e João fizeram um caminho e prepararam de antemão. João não outorgar o presente que estava por vir, a remissão dos pecados, mas de uma maneira oportuna preparava as almas dos que receberiam o Deus de todo (João Crisóstomo). Assim que dentro de cada um de nós o caminho da castidade, a fé e a santidade deve ser pavimentado pelo arrependimento (Cromácio). João era uma voz desde o deserto à diferença da Palavra prometeu vir (Anônimo). Pregou que peca contra a lei de Deus poderiam ser purgados pelo arrependimento (Cromácio). Vestido de pelo de camelo de João foi escolhido como símbolo do trabalho rigoroso de arrependimento evangélico não só entre Judeus senão gentios (Pedro Crisólogo, Teodoro de Mopsuéstia), para o que levava a pele de um animal impuro (Máximo de Turim). O que não tinha nenhum uso para os prazeres mundanos não buscou vestidos custosos ou alimentos suculentos (Cromácio). Sua comida era gafanhotos alimentos para a penitência misturado com terna misericórdia, mel (Pedro Crisólogo). Tenha em conta que o mel silvestre não se obtém pelo esforço, senão como um presente imerecido, misericordioso (Orígenes). Um cinto de segurança para a cintura em toda boa obra se prepara um para ser cingidos com a vontade de Deus para cada serviço (Hilário). Por seu cinto de couro João simbolicamente levou ao arrependimento de seus órgãos genitais (Orígenes), a fim de preparar a alma para caminhar em pureza (Jerônimo). A aparição de um profeta depois de um grande intervalo de tempo tão aumentou o assombro de Israel (João Crisóstomo). A confissão é moralmente deficiente quando um não crê no juízo futuro (Anônimo). A multidão correu a João como a um homem enviado de Deus (Teodoro de Heracleia).",
+          "fonte_1": "Diversos comentários patrísticos",
+          "fonte_2": "[]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Mateus 3:1",
+      "versiculo": 1,
+      "tema": "João Batista",
+      "comentarios": [
+        {
+          "titulo": "Nesses dias",
+          "autor": "João Crisóstomo",
+          "texto": "Como \"nesses dias\"? Que dias? Não se refere aos dias em que Jesus era um menino em Nazaré, mas trinta anos mais tarde, quando veio João, como Lucas também testifica. Por que então se diz \"nesses dias\"? É comum na Escritura para utilizar este recurso retórico: Ao falar de algo que parece vir imediatamente depois, também se refere a algo que vem a passar muitos anos mais tarde.",
+          "fonte_1": "O Evangelho de Mateus, Homilia 10,1",
+          "fonte_2": "[PG 57: 183; NPNF 1 10: 61 *.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Mateus 3:2",
+      "versiculo": 2,
+      "tema": "João prega o arrependimento",
+      "comentarios": [
+        {
+          "titulo": "O Reino está dentro de justificar e Santificar-me",
+          "autor": "Cirilo de Alexandria",
+          "texto": "O reino dos céus? Isto se refere à justificação pela fé e a santificação pelo Espírito. É por isto que diz em outra parte, \"o reino [do céu] está dentro de ti.\"",
+          "fonte_1": "Fragmento 17",
+          "fonte_2": "[MKGK 159.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Mateus 3:3",
+      "versiculo": 3,
+      "tema": "Uma voz grita no deserto",
+      "comentarios": [
+        {
+          "titulo": "A voz do que clama",
+          "autor": "Anônimo",
+          "texto": "Uma voz ou som é uma expressão obscura, que se manifesta nenhum segredo do coração, mas isto só significa: que o que chama quer dizer algo. Uma palavra, contudo, é o discurso racional, abrindo o mistério do coração. Enquanto uma voz, como tal, é comum tanto para os animais e os homens, uma palavra é apropriado só para os seres humanos. Assim João foi chamado com voz e nem uma palavra, porque, através de João, Deus demonstrou nem sua compaixão nem sua justiça nem seus conselhos preparados antes da fundação do mundo, mas só isto: que Deus tinha a intenção de fazer algo grande na história humana. Mais tarde, através de seu Filho, revelou o mistério completo de sua vontade. Portanto, o Filho foi chamado a Palavra. Para \"preparar o caminho do Senhor\" significa: Arrependei-vos de vossos pecados e produzi frutos dignos de arrependimento.",
+          "fonte_1": "O Trabalho Incompleto em Mateus, Homilia 3",
+          "fonte_2": "[PG. 56: 647]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Preparação das almas para a pureza",
+          "autor": "Jerônimo",
+          "texto": "Preparou as almas dos crentes no Senhor ao que voltaria a pé, pelo que pudesse caminhar em pureza ao longo da mais pura de caminhos, dizendo: \"Viverei neles e se moverão entre eles, e serei seu Deus, e eles serão meu povo.\"",
+          "fonte_1": "Comentário sobre Mateus 1,3,3",
+          "fonte_2": "[CCL 77:16.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Fazendo um caminho para a vinda do Messias",
+          "autor": "João Crisóstomo",
+          "texto": "Tanto o profeta e o estado Batista a mesma ideia, embora com diferentes palavras. O profeta disse que viria: \"preparar o caminho do Senhor, aplanai suas veredas\" E quando veio João, que ele mesmo há dito, \"dai frutos dignos de arrependimento,\" \"preparar o caminho do Senhor\", uma declaração que corresponde a ambos pelas palavras dos profetas e pela própria pregação de João, uma coisa é clara: havia chegado, pelo que uma forma e preparado de antemão. João não estava outorgando o dom, que era a remissão dos pecados, mas a preparação de antemão as almas dos que receberiam o Deus de todos.",
+          "fonte_1": "O Evangelho de Mateus, Homilia 10,3",
+          "fonte_2": "[PG 57: 187; NPNF 1 10: 63 *. João não outorgar o dom do perdão, mas prepara o caminho para seu outorgamento.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Tirar as pedras da estrada",
+          "autor": "Cromácio",
+          "texto": "Daí que João preparou estes caminhos de misericórdia e verdade, a fé e a justiça. Em quanto a eles, Jeremias também declarou: \"Parai-vos nos caminhos e olhai, e perguntai pelas sendas antigas, qual seja o bom caminho, e andai por ele.\" Devido a que o reino dos céus se encontra ao longo destas formas, não sem razão João acrescenta: \"o reino dos céus está perto.\" Então, deseja que o reino dos céus para estar também perto para você? Preparar estas formas em seu coração, em seus sentidos e em sua alma. Aplanar o caminho dentro de ti da castidade, o caminho da fé e o caminho da santidade. Construir caminhos da justiça. Retire todo escândalo da ofensa de teu coração. Porque está escrito: \"Eliminar as pedras da estrada.\" E então, com efeito, através dos pensamentos de seu coração e os mesmos movimentos de sua alma, Cristo Rei entrará ao longo de certos caminhos.",
+          "fonte_1": "Tratado em Mateus 8,1",
+          "fonte_2": "[CCL 9a: 228-29.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Mateus 3:4",
+      "versiculo": 4,
+      "tema": "O simbolismo da Comida e Roupa de João",
+      "comentarios": [
+        {
+          "titulo": "A vestimenta de arrependimento",
+          "autor": "João Crisóstomo",
+          "texto": "Era lógico que o precursor Daquele que era de atirar todos os males antigos, a mão de obra, a maldição, a dor e o suor da tela símbolos da situação anterior à queda de Adão. É por isto que não arava a terra nem sulcos arados nem comia pão com o suor de sua fronte. Mais propriamente, sua mesa se suprisse a toda pressa, e sua roupa mais facilmente mobiliada de sua mesa, e seu alojamento ainda menos problemático que sua roupa. Para que necessitava nem teto, nem cama, nem mesa nem nenhuma outra comodidade terrena. Viveu uma espécie de anjo da vida nesta nossa carne. Por esta razão, a roupa de João era do cabelo, que por sua mesma vestimenta que pudesse instruir às pessoas a separarem-se de tudo o humano, não ter nada em comum com a terra, senão para acelerar de novo a sua nobreza sem mácula, a condição na qual viveu Adão antes que requer prendas de vestir ou robe. Portanto a roupa de João sim era um símbolo de nada menos que a vinda do reino e de arrependimento.",
+          "fonte_1": "O Evangelho de Mateus, Homilia 10,4",
+          "fonte_2": "[PG 57: 188; NPNF 1 10: 64 **. Forma de vida de João mesma prefigurou a recuperação da humanidade da condição humana antes de sua queda.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Sem vestidos custosos",
+          "autor": "Cromácio",
+          "texto": "Em primeiro lugar, a vida celestial e gloriosa humildade de João se demonstrou em sua forma de vida. O que tinha o mundo no respeito baixo não buscou vestidos custosos. O que não tinha nenhum uso para os prazeres mundanos não tinha nenhum desejo de alimentos suculentos. Que necessidade havia de roupa de luxo para mundana que estava vestida com o manto da justiça? O que a comida macia da terra poderia desejar que se alimentava de discursos divinos e cuja verdadeira comida era a lei de Cristo? Dito precursor deve ser o profeta do Senhor e o apóstolo de Cristo, que se entregou por completo a seu Deus do céu e tinha desprezo pelas coisas do mundo.",
+          "fonte_1": "Tratado em Mateus 9,1",
+          "fonte_2": "[CCL 9a: 231.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Modéstia santificada",
+          "autor": "Hilário",
+          "texto": "Uma prenda tecida com pelo de camelo designa a roupa peculiar deste pregador profético. Cobre-se com a pele de um animal impuro. O que havia sido inútil ou mal em nós se santifica pela roupa do profeta.",
+          "fonte_1": "Em Mateus 2,2",
+          "fonte_2": "[SC 254: 104.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Cingidos com as peles de um animal impuro",
+          "autor": "Máximo de Turim",
+          "texto": "Com efeito, quando o precursor de Cristo levava uma prenda de pelo de camelo grossa, que mais que importa, mas que a vinda de Cristo se corresponde com o atuendo de um corpo humano, de espesso com a grosseria dos pecadores, e que, cingidos com a pele de um animal impuro, a maioria das pessoas gentias, que levavam sua própria deformidade?",
+          "fonte_1": "Sermões 88,3",
+          "fonte_2": "[CCL 23: 360.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Uma prenda destinada para o trabalho duro de arrependimento",
+          "autor": "Pedro Crisólogo",
+          "texto": "Poderia haver feito uso de pelo de cabra, mas não havia necessidade disso. Mais propriamente, levava um vestido de pelo de camelo com nada refinada disso, nada elegante, apuesto nada. Por natureza que estava destinado para o trabalho duro e as cargas pesadas e consignado a pronunciar sujeição. O mestre de arrependimento deve ser titular de uma prenda de vestir, de modo que os que se haviam apartado da virtude em sua educação e entregado sem pudor ao pecado pudesse ser submetido pela grande carga da penitência, pudesse ser consignado aos rigores da reparação e a experiência dos pesados suspiros de contrição. Portanto remodelados e formado de novo na forma de uma agulha, a fim de obter um amplo remissão através da estreita abertura da penitência. E as palavras do Senhor então se cumpririam relativa a um camelo passar pelo olho de uma agulha.",
+          "fonte_1": "Sermões 167,8",
+          "fonte_2": "[CCL 24b: 1028-1029.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Por que pelo de camelo?",
+          "autor": "Teodoro de Mopsuéstia",
+          "texto": "O pelo de camelo se menciona não só circunstancialmente mas em um mistério e como um tipo. O camelo se conta nem como estritamente um dos animais impuros nem como estritamente uma da limpeza, mas ocupa uma posição intermediária e participa das características de ambos. Para que ruminem, é dizer, para abrir de novo a comida depois de haver sido ingerido e dirigir para frente para ser moído pelos dentes, que é próprio dos animais limpos. Isto se refere ao camelo. Mas não tem pezunha é uma característica dos animais impuros. O pé do camelo não se divide, dado que suas unhas se reúnem. Portanto, neste respeito, João estava vestido com os cabelos deste animal, o que demonstra a chamada do Evangelho. Mostrou que o reino de Deus, que declarou João estava à mão, ia aceitar tanto os que eram de Israel, o povo limpas, e os dos gentios impuros. Para ambos pregou o arrependimento, sem distinção alguma.",
+          "fonte_1": "Fragmento 12",
+          "fonte_2": "[MKGK 100.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Restringido pela virtude",
+          "autor": "Máximo de Turim",
+          "texto": "Em quanto à correia de couro, que outra coisa que demonstrar, mas esta carne frágil da nossa, atrapada nas garras do vício antes da vinda de Cristo e que, depois de sua chegada, foi restringido em virtude? Antes de sua vinda esta carne era gorda através da dissipação. Agora pela abstenção se mantém firmemente em seu lugar.",
+          "fonte_1": "Sermões 88,3",
+          "fonte_2": "[CCL 23: 360.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Gafanhotos e mel silvestre",
+          "autor": "Orígenes",
+          "texto": "João comia gafanhotos, o que sugere que o povo de Deus estavam sendo alimentados por uma palavra que viajou alta em alto no ar e ainda não havia passado sobre a terra. Em segundo lugar João comeu o mel, que não se obtém pela gente através de seus próprios esforços. O mel que se produz em virtude da lei e os profetas não era acessível aos que estavam perguntando só superficialmente sobre o significado das Escrituras, e não buscar sua intenção mais profunda.",
+          "fonte_1": "Fragmento 41",
+          "fonte_2": "[GCS 41.1:. 32]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Alimentos para a Penitência",
+          "autor": "Pedro Crisólogo",
+          "texto": "Gafanhotos destinados aos pecadores dignos de castigo se consideram com razão, como alimento para o arrependimento, de maneira que delimita desde o lugar do pecado ao lugar de arrependimento do pecador pode voar ao céu nas asas do perdão. O profeta era consciente disto quando disse, \"eu já não esteja, como uma sombra pela tarde. Sou sacudido como gafanhoto. Meus joelhos estão debilitados por causa do jejum; meu corpo se há tornado demacrado... Salva-me de acordo a sua lei firme.\" Haveis ouvido que João foi sacudido como um gafanhoto do pecado ao arrependimento. Dobrou os joelhos que pudesse suportar a carga de arrependimento. Sua comida se mescla com o mel, pelo que a oferta mercê pudesse moderar a amargura do arrependimento.",
+          "fonte_1": "Sermões 167,9",
+          "fonte_2": "[CCL 24b: 1029.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Mateus 3:5",
+      "versiculo": 5,
+      "tema": "A gente da Zona vai escutar a pregação de João",
+      "comentarios": [
+        {
+          "titulo": "O tom do discurso profético de João",
+          "autor": "João Crisóstomo",
+          "texto": "Ver quão grande era o poder da vinda do profeta! Agitou à gente. Chamou-os a considerar o significado de seus próprios pecados. Era de fato digno de maravilha para contemplar sua extraordinária forma humana, sua grande liberdade de expressão, a força de sua reprovação de todos como se fossem meninos e a graça abundante emitindo para fora de seu rosto. A aparição de um profeta depois de um grande intervalo de tempo tão aumentou seu assombro. O dom profético que havia estado ausente durante muito tempo agora regressava. O mesmo tom de seu discurso profético era estranho e inusual. Para que haviam ouvido nenhuma dessas coisas das que estavam acostumados aos profetas para falar: de guerras e batalhas e vitórias a seguir, de fome e a peste, dos babilônios e persas, e a tomada da cidade, e as outras coisas com as que estavam familiarizados; do céu e de seu reino, de castigo no inferno.",
+          "fonte_1": "O Evangelho de Mateus, Homilia 10,5",
+          "fonte_2": "[PG 57: 189; NPNF 1 10: 65 **. João renovou o tom e a voz da pregação profética.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Um homem enviado de Deus",
+          "autor": "Teodoro de Heracleia",
+          "texto": "Quando as multidões ouviram de sua maneira de viver, muito superior à vida humana normal, que desejavam vê-lo. Por esta razão, quando se souberam de que João estava perto, todos ao mesmo tempo correram a ele, como a \"um homem enviado de Deus.\" Confessaram seus pecados em sua presença para que, como sacerdote, pudesse oferecer sacrifícios em seu nome.",
+          "fonte_1": "Fragmento 13",
+          "fonte_2": "[MKGK 60.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
