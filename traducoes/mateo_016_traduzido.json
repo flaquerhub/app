@@ -1,0 +1,86 @@
+{
+  "livro": "Mateus",
+  "capitulo": 4,
+  "versiculo_inicial": 1,
+  "versiculo_final": 2,
+  "blocos": [
+    {
+      "referencia": "Mateus 4:1",
+      "versiculo": 1,
+      "tema": "Jesus levado ao deserto",
+      "comentarios": [
+        {
+          "titulo": "Disposição a enfrentar tentações",
+          "autor": "João Crisóstomo",
+          "texto": "O texto diz \"a seguir.\" Logo, quando? Isto foi depois da baixada do Espírito, depois de que a voz que era trazido desde acima havia dito: \"Este é meu Filho amado, em quem tenho complacência.\" Dirigido por quem? Isto é maravilhoso. Tudo isto foi levado pelo Espírito Santo. Porque diz que Jesus foi \"levado pelo Espírito.\" Tudo isto era para nossa instrução. O Senhor faz o que seja necessário para nossa salvação por tanto a atuação e se atua em consequência. Submeteu-se a ser levado até ali para lutar contra o diabo. Agora não há que ser problemático se, depois de nosso batismo, nós também temos que suportar grandes provas. Não há que tratar isto como se inesperado mas seguir suportando todas as coisas nobremente, como se estivesse ocorrendo no curso natural das coisas.",
+          "fonte_1": "O Evangelho de Mateus, Homilia 13,1",
+          "fonte_2": "[PG 57: 207-8; NPNF 1 10: 80 **. Mediante a apresentação de si mesmo para ser levado pelo Espírito ao deserto para lutar contra a tentação, nos ensina-se a fazer frente a nossas tentações.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A tentação de Adão invertida",
+          "autor": "Teodoro de Mopsuéstia",
+          "texto": "Pois já que Adão se reuniu com o luxo no paraíso e, através do engano, se deteriorou ao que é pior, era necessário que [o Espírito] conduzir a Cristo no deserto com o fim de debilitar a força do diabo por um maior na força. Então jejuou durante quarenta dias e noites.",
+          "fonte_1": "Fragmento 17",
+          "fonte_2": "[MKGK 102. Adão através do engano caiu desde o luxo de um paraíso na tentação e a queda. Daí que o Espírito conduziu necessariamente a Jesus ao deserto para debilitar a força do diabo por um maior na força.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Guiados pelo Espírito",
+          "autor": "Anônimo",
+          "texto": "Com as palavras do Evangelista acrescenta, \"para ser tentado pelo diabo\", que mostra que Jesus foi levado pelo Espírito, mas não como um subordinado na ordem de um superior e não como um superior no fomento de um subordinado. Refere-se não só a um que é guiado ou desenhado sob o poder de outro, senão também a quem se allana na insistência razoável de alguém. Jesus foi levado ao diabo para ser tentado. Tenha em conta que o diabo vai à gente para tentar a eles, e não é a gente que vai ao diabo com o fim de ser tentados por ele. E posto que o diabo não podia ir contra Cristo, Cristo foi o que ia contra o diabo.",
+          "fonte_1": "O Trabalho Incompleto em Mateus, Homilia 5",
+          "fonte_2": "[PG. 56: 661]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O diabo derrotado pela mesma carne que havia feito desgraçado",
+          "autor": "Hilário",
+          "texto": "A viagem no deserto, o jejum de quarenta dias, a fome depois do jejum, a tentação de Satanás e do Senhor resposta de todos estes estão cheios dos efeitos do grande conselho celestial. O fato de que foi levado ao deserto significa a liberdade do Espírito Santo para oferecer a seu homem para o diabo e para permitir que o motivo da tentação e a conquista, que o tentador não haveria tido a menos que se lhe havia dado. Não havia no diabo, portanto o medo suspeitoso mas não conhecimento da verdadeira identidade do Um suspeita. O diabo foi movido pelo jejum de quarenta dias. Tinha conhecimento das águas vertidas de saída do abismo na mesma quantidade de dias e da exploração da terra prometida, Na lei mosaica escrita por Deus. Também sabia que este número de anos se cumpriu quando o povo permanecia no deserto com a vida e condição, já que eram os anjos. Apreensivo desse tempo, portanto, no tentando-o a quem considera como um homem, que atuou precipitadamente. Havia tentado a Adão e enganando a ele lhe levou à morte. Mas era apropriado, por causa de sua maldade e má ação, que será derrotado pela mesma humanidade em cuja morte e desgraças se gloriava. Foi o diabo quem invejava aos dons de Deus à humanidade antes da tentação de Adão, que agora era incapaz de compreender o ser de Deus presente em um ser humano. Portanto, o Senhor foi tentado imediatamente depois de ser batizado. Sua tentação indica como sinistro são os intentos do diabo especialmente contra os que foram santificados, já que deseja ardentemente a vitória sobre os santos. Jesus não fome de comida humana, senão para a salvação humana. Foi depois de quarenta dias e não durante quarenta dias que teve fome. Moisés e Elias não tinham fome durante o mesmo período de jejum. Portanto, quando o Senhor fome, o trabalho da abstinência não arrastar-se para acima nele. Sua força não se esgota por seus quarenta dias de jejum. Não abandonou sua natureza como um homem. O diabo não foi a ser derrotado por Deus, senão pela carne, que seguramente não se haveria atrevido a tentar, exceto naquelas coisas que reconhecia eram as necessidades humanas adequadas, devido às dores da fome.",
+          "fonte_1": "Em Mateus 3,1-2",
+          "fonte_2": "[SC 254: 110-14.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    },
+    {
+      "referencia": "Mateus 4:2",
+      "versiculo": 2,
+      "tema": "Jesus jejua durante quarenta dias e noites",
+      "comentarios": [
+        {
+          "titulo": "Quarenta dias, e logo a fome",
+          "autor": "Orígenes",
+          "texto": "Para o número \"quarenta dias\" se compõe de quatro grupos de dez. Isto pode ser similar aos quatro aspectos da realidade física, já que o mundo sensível se formou a partir de quatro elementos. Ou pode ser porque um ser humano se forma em quarenta dias no útero. E para que não pudesse, pelo jejum por mais tempo que isto, dar a ninguém a ideia de que não havia feito carne na verdade, que depois teve fome, compartilhando tudo o que temos \"exceto no pecado\" e participar em nossa condição através de seu próprio sofrimento.",
+          "fonte_1": "Fragmento 61",
+          "fonte_2": "[GCS 41.1:. 39. Nesta passagem é um exemplo de exégesis numérica, que constrói uma interpretação alegórica no significado simbólico atribuído aos números. A crença de que as combinações numéricas continham significados internos ocultos estava muito estendida no mundo antigo. Isto não implica que antes destes quarenta dias não há nada humano que ao bebê senão só que sua formação é claramente evidente pelo quadragésimo dia. Em qualquer caso, Orígenes captado a analogia entre os quarenta dias de tentação na formação da nova criação e os quarenta dias de desenvolvimento embrionário para formar a criação original da pessoa no ventre materno.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "Elias jejuou quarenta dias",
+          "autor": "Teodoro de Mopsuéstia",
+          "texto": "Quando Cristo \"fome\", como está escrito, então o diabo fez seu movimento para tentá-lo; porque não era do todo surpreendido pelo fato de seu jejum durante quarenta dias, já que sabia que Elias havia jejuado durante o mesmo período de tempo. Por esta razão se animou a atacá-lo, pensando que seja uma pessoa deste tipo, e não a Deus.",
+          "fonte_1": "Fragmento 18",
+          "fonte_2": "[MKGK 203.]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "A fome de Jesus foi voluntária",
+          "autor": "Anônimo",
+          "texto": "Portanto, um jejuou durante quarenta dias, e fez isto por duas razões. Em primeiro lugar, para que pudesse dar-nos um exemplo de jejum para evitar tentações. Em segundo lugar, para que pudesse estabelecer a medida de quarenta dias para nosso jejum. Teve fome, por outra parte, pelo que ao não exagerar seu jejum Deus possa ser entendida de forma manifesta e que pudesse lançar-se a esperança do diabo na tentação e frustrar sua vitória. Depois de que o diabo lhe contemplou um jejum de quarenta dias, perdeu-se a esperança. Foi quando se deu conta de que Cristo tinha fome que a esperança foi restaurada. Aproximou-se a ele como teve fome para o exterior, mas por dentro encontrou que nunca tinha fome. E enquanto que o Cristo tentado fome, foi conquistado pelo Cristo que não tinha fome. Ter fome e não comer é adequado da paciência humana, mas não ter fome é próprio de uma natureza divina. Portanto o que não tinha fome durante quarenta dias e logo se converteu em fome demonstra que sua fome era voluntária e não é necessário.",
+          "fonte_1": "O Trabalho Incompleto em Mateus, Homilia 5",
+          "fonte_2": "[PG. 56: 664-65]",
+          "marcacao_anti_catolica": false
+        },
+        {
+          "titulo": "O jejum de Quaresma previsto",
+          "autor": "Pedro Crisólogo",
+          "texto": "Como pode ver, meus amigos, o fato de que jejuar durante a Quaresma não é da invenção humana. A autoridade é divina e mística, e não se dá por sentado. Tampouco se baseia em um costume terreno, senão nos segredos celestiais. Quaresma [Quadragesima] contém o ensinamento de quatro lados das quatro décadas da fé, porque a perfeição é sempre de quatro lados. O número quarenta [quadragesimus] e o número dez [denario], que mantém sacramentos tanto no céu como na terra, porque um quadrado não é livre de abrir, se usam para explicar o compromisso do Senhor de rápido.",
+          "fonte_1": "Sermões 11,4",
+          "fonte_2": "[CCL 24:74; FC 17: 58 *. Cristo permitiu que o diabo para tentá-lo durante quarenta dias, que o diabo pudesse enredar-se pelos meios pelos que pensou que poderia fazer uma captura e desta maneira estabelecer para o ano litúrgico o patrão de quarenta dias de penitência.]",
+          "marcacao_anti_catolica": false
+        }
+      ]
+    }
+  ]
+}
